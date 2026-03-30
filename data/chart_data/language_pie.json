@@ -1,0 +1,31 @@
+[
+  {
+    "name": "en",
+    "value": 8861,
+    "color": "#4F46E5"
+  },
+  {
+    "name": "hi",
+    "value": 6021,
+    "color": "#06B6D4"
+  },
+  {
+    "name": "mix",
+    "value": 29,
+    "color": "#10B981"
+  },
+  {
+    "name": "es",
+    "value": 1,
+    "color": "#F59E0B"
+  },
+  {
+    "name": "ar",
+    "value": 1,
+    "color": "#EF4444"
+  },
+  {
+    "name": "mr",
+    "value": 1
+  }
+]

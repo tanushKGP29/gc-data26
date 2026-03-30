@@ -1,0 +1,603 @@
+{
+  "meta": {
+    "tag": "CONTENT MIX & PUBLISHING FUNNEL",
+    "title": "Content Mix & Publishing Funnel",
+    "sub": "What content types are produced, where publish drop-off occurs, and channel conversion rates. Audience: Editorial · Product · Operations."
+  },
+  "subTabs": [
+    [
+      "sankey",
+      "Sankey Flow"
+    ],
+    [
+      "pipeline",
+      "Pipeline"
+    ],
+    [
+      "channels",
+      "By Channel"
+    ]
+  ],
+  "sankeyTypeOptions": [
+    [
+      "funnel",
+      "Upload→Publish"
+    ],
+    [
+      "channel",
+      "Channel→Platform"
+    ],
+    [
+      "content",
+      "Content→Language"
+    ]
+  ],
+  "inputTypes": [
+    {
+      "type": "interview",
+      "uploaded": 1299,
+      "created": 4972,
+      "published": 35,
+      "uploadedH": 243.89,
+      "createdH": 462.72
+    },
+    {
+      "type": "news bulletin",
+      "uploaded": 1026,
+      "created": 3238,
+      "published": 39,
+      "uploadedH": 171.76,
+      "createdH": 275.87
+    },
+    {
+      "type": "special reports",
+      "uploaded": 755,
+      "created": 2129,
+      "published": 15,
+      "uploadedH": 133.01,
+      "createdH": 197.85
+    },
+    {
+      "type": "speech",
+      "uploaded": 742,
+      "created": 2390,
+      "published": 12,
+      "uploadedH": 132.69,
+      "createdH": 217.79
+    },
+    {
+      "type": "debate",
+      "uploaded": 290,
+      "created": 1074,
+      "published": 5,
+      "uploadedH": 63.69,
+      "createdH": 98.29
+    },
+    {
+      "type": "press conference",
+      "uploaded": 280,
+      "created": 973,
+      "published": 2,
+      "uploadedH": 51.11,
+      "createdH": 85.44
+    },
+    {
+      "type": "discussion-show",
+      "uploaded": 19,
+      "created": 79,
+      "published": 3,
+      "uploadedH": 4.61,
+      "createdH": 10.06
+    },
+    {
+      "type": "sports show",
+      "uploaded": 17,
+      "created": 19,
+      "published": 0,
+      "uploadedH": 2.91,
+      "createdH": 2.92
+    },
+    {
+      "type": "Unknown",
+      "uploaded": 12,
+      "created": 12,
+      "published": 0,
+      "uploadedH": 2.17,
+      "createdH": 2.17
+    },
+    {
+      "type": "podcast",
+      "uploaded": 8,
+      "created": 21,
+      "published": 0,
+      "uploadedH": 0.46,
+      "createdH": 0.68
+    }
+  ],
+  "languages": [
+    {
+      "lang": "English",
+      "uploaded": 2647,
+      "created": 8861,
+      "published": 91,
+      "uploadedH": 437.5
+    },
+    {
+      "lang": "Hindi",
+      "uploaded": 1792,
+      "created": 6021,
+      "published": 20,
+      "uploadedH": 366.56
+    },
+    {
+      "lang": "Mixed",
+      "uploaded": 11,
+      "created": 29,
+      "published": 0,
+      "uploadedH": 2.51
+    },
+    {
+      "lang": "Spanish",
+      "uploaded": 1,
+      "created": 1,
+      "published": 0,
+      "uploadedH": 0.07
+    },
+    {
+      "lang": "Arabic",
+      "uploaded": 1,
+      "created": 1,
+      "published": 0,
+      "uploadedH": 1.01
+    }
+  ],
+  "channels": [
+    {
+      "ch": "A",
+      "uploaded": 847,
+      "created": 3112,
+      "published": 46,
+      "uploadedH": 148.2,
+      "platforms": {
+        "Facebook": 1,
+        "Instagram": 7,
+        "Reels": 5,
+        "Shorts": 1,
+        "Youtube": 5
+      },
+      "noPublish": false
+    },
+    {
+      "ch": "B",
+      "uploaded": 620,
+      "created": 1982,
+      "published": 7,
+      "uploadedH": 117.8,
+      "platforms": {},
+      "noPublish": false
+    },
+    {
+      "ch": "C",
+      "uploaded": 321,
+      "created": 1080,
+      "published": 1,
+      "uploadedH": 68.2,
+      "platforms": {},
+      "noPublish": false
+    },
+    {
+      "ch": "D",
+      "uploaded": 412,
+      "created": 1430,
+      "published": 72,
+      "uploadedH": 78.5,
+      "platforms": {
+        "Facebook": 6,
+        "Instagram": 3,
+        "Reels": 15,
+        "Shorts": 18,
+        "Youtube": 29
+      },
+      "noPublish": false
+    },
+    {
+      "ch": "E",
+      "uploaded": 89,
+      "created": 240,
+      "published": 0,
+      "uploadedH": 19.3,
+      "platforms": {},
+      "noPublish": true
+    },
+    {
+      "ch": "F",
+      "uploaded": 76,
+      "created": 220,
+      "published": 0,
+      "uploadedH": 14.1,
+      "platforms": {},
+      "noPublish": true
+    },
+    {
+      "ch": "G",
+      "uploaded": 168,
+      "created": 492,
+      "published": 14,
+      "uploadedH": 38.6,
+      "platforms": {
+        "Facebook": 1,
+        "Reels": 11,
+        "Shorts": 2
+      },
+      "noPublish": false
+    },
+    {
+      "ch": "H",
+      "uploaded": 55,
+      "created": 162,
+      "published": 0,
+      "uploadedH": 11,
+      "platforms": {},
+      "noPublish": true
+    },
+    {
+      "ch": "I",
+      "uploaded": 97,
+      "created": 285,
+      "published": 5,
+      "uploadedH": 22.4,
+      "platforms": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "Reels": 1,
+        "Shorts": 2
+      },
+      "noPublish": false
+    }
+  ],
+  "totals": {
+    "totalUploaded": 4453,
+    "totalCreated": 15119,
+    "totalPublished": 111,
+    "publishRate": "2.5",
+    "multiplier": "3.4"
+  },
+  "contentFlowLegend": [
+    {
+      "c": "var(--ink3)",
+      "l": "Uploaded: 4,453"
+    },
+    {
+      "c": "var(--gold)",
+      "l": "AI Created: 15,119 (3.4×)"
+    },
+    {
+      "c": "var(--green)",
+      "l": "Published: 111 (2.5%)"
+    },
+    {
+      "c": "#6a1818",
+      "l": "Unpublished: 14,803 (97.5%)"
+    }
+  ],
+  "dataQualityAlerts": [
+    {
+      "t": "🔴 Team attribution: 99.3% rows have Unknown team",
+      "c": "crit"
+    },
+    {
+      "t": "🔴 Platform NULL: 68% published items have no platform",
+      "c": "crit"
+    },
+    {
+      "t": "🟠 QA/Test contamination: ~15.5% of created outputs",
+      "c": "warn"
+    },
+    {
+      "t": "🟡 Ch-A dominates: 64% of all publishes",
+      "c": "warn"
+    },
+    {
+      "t": "ℹ️ Threads, X, LinkedIn: 0 publishes all year",
+      "c": "info"
+    }
+  ],
+  "typeTreemapColors": [
+    "#b87514",
+    "#c45e22",
+    "#a87850",
+    "#7a6858",
+    "#5a7868",
+    "#9b7058"
+  ],
+  "sankey": {
+    "funnel": {
+      "nodes": [
+        "Uploads",
+        "AI Created",
+        "Published",
+        "Unpublished",
+        "English",
+        "Hindi",
+        "Other",
+        "YouTube",
+        "Reels",
+        "Shorts",
+        "Facebook",
+        "Instagram"
+      ],
+      "links": [
+        {
+          "source": "Uploads",
+          "target": "AI Created",
+          "value": 4453
+        },
+        {
+          "source": "AI Created",
+          "target": "Published",
+          "value": 111
+        },
+        {
+          "source": "AI Created",
+          "target": "Unpublished",
+          "value": 14803
+        },
+        {
+          "source": "Published",
+          "target": "English",
+          "value": 91
+        },
+        {
+          "source": "Published",
+          "target": "Hindi",
+          "value": 20
+        },
+        {
+          "source": "English",
+          "target": "YouTube",
+          "value": 20
+        },
+        {
+          "source": "English",
+          "target": "Reels",
+          "value": 18
+        },
+        {
+          "source": "English",
+          "target": "Shorts",
+          "value": 12
+        },
+        {
+          "source": "English",
+          "target": "Facebook",
+          "value": 5
+        },
+        {
+          "source": "English",
+          "target": "Instagram",
+          "value": 10
+        },
+        {
+          "source": "Hindi",
+          "target": "YouTube",
+          "value": 15
+        },
+        {
+          "source": "Hindi",
+          "target": "Reels",
+          "value": 5
+        }
+      ]
+    },
+    "channel": {
+      "nodes": [
+        "Ch-A",
+        "Ch-D",
+        "Ch-G",
+        "Ch-H",
+        "Ch-I",
+        "Ch-P",
+        "Ch-Q",
+        "YouTube",
+        "Reels",
+        "Shorts",
+        "Facebook",
+        "Instagram"
+      ],
+      "links": [
+        {
+          "source": "Ch-A",
+          "target": "YouTube",
+          "value": 5
+        },
+        {
+          "source": "Ch-A",
+          "target": "Reels",
+          "value": 5
+        },
+        {
+          "source": "Ch-A",
+          "target": "Shorts",
+          "value": 1
+        },
+        {
+          "source": "Ch-A",
+          "target": "Facebook",
+          "value": 1
+        },
+        {
+          "source": "Ch-A",
+          "target": "Instagram",
+          "value": 7
+        },
+        {
+          "source": "Ch-D",
+          "target": "YouTube",
+          "value": 29
+        },
+        {
+          "source": "Ch-D",
+          "target": "Reels",
+          "value": 15
+        },
+        {
+          "source": "Ch-D",
+          "target": "Shorts",
+          "value": 18
+        },
+        {
+          "source": "Ch-D",
+          "target": "Facebook",
+          "value": 6
+        },
+        {
+          "source": "Ch-D",
+          "target": "Instagram",
+          "value": 3
+        },
+        {
+          "source": "Ch-G",
+          "target": "Reels",
+          "value": 11
+        },
+        {
+          "source": "Ch-G",
+          "target": "Shorts",
+          "value": 2
+        },
+        {
+          "source": "Ch-G",
+          "target": "Facebook",
+          "value": 1
+        },
+        {
+          "source": "Ch-H",
+          "target": "YouTube",
+          "value": 1
+        },
+        {
+          "source": "Ch-I",
+          "target": "Reels",
+          "value": 1
+        },
+        {
+          "source": "Ch-I",
+          "target": "Shorts",
+          "value": 2
+        },
+        {
+          "source": "Ch-I",
+          "target": "Facebook",
+          "value": 1
+        },
+        {
+          "source": "Ch-I",
+          "target": "Instagram",
+          "value": 1
+        },
+        {
+          "source": "Ch-P",
+          "target": "Reels",
+          "value": 1
+        },
+        {
+          "source": "Ch-Q",
+          "target": "YouTube",
+          "value": 1
+        }
+      ]
+    },
+    "content": {
+      "nodes": [
+        "Interview",
+        "News bulletin",
+        "Spec. reports",
+        "Speech",
+        "Debate",
+        "Press conf.",
+        "Discussion",
+        "English",
+        "Hindi",
+        "Published (111)",
+        "Unpublished"
+      ],
+      "links": [
+        {
+          "source": "Interview",
+          "target": "English",
+          "value": 30
+        },
+        {
+          "source": "Interview",
+          "target": "Hindi",
+          "value": 5
+        },
+        {
+          "source": "News bulletin",
+          "target": "English",
+          "value": 33
+        },
+        {
+          "source": "News bulletin",
+          "target": "Hindi",
+          "value": 6
+        },
+        {
+          "source": "Spec. reports",
+          "target": "English",
+          "value": 13
+        },
+        {
+          "source": "Spec. reports",
+          "target": "Hindi",
+          "value": 2
+        },
+        {
+          "source": "Speech",
+          "target": "English",
+          "value": 10
+        },
+        {
+          "source": "Speech",
+          "target": "Hindi",
+          "value": 2
+        },
+        {
+          "source": "Debate",
+          "target": "English",
+          "value": 4
+        },
+        {
+          "source": "Debate",
+          "target": "Hindi",
+          "value": 1
+        },
+        {
+          "source": "Press conf.",
+          "target": "English",
+          "value": 1
+        },
+        {
+          "source": "Press conf.",
+          "target": "Hindi",
+          "value": 1
+        },
+        {
+          "source": "Discussion",
+          "target": "English",
+          "value": 3
+        },
+        {
+          "source": "English",
+          "target": "Published (111)",
+          "value": 91
+        },
+        {
+          "source": "Hindi",
+          "target": "Published (111)",
+          "value": 20
+        }
+      ]
+    }
+  }
+}

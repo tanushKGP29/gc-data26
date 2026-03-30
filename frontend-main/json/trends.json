@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "tag": "TEMPORAL ANALYSIS · MAR 2025 → FEB 2026",
+    "title": "Usage & Trend Analysis",
+    "sub": "How volumes trend over time — strongest periods, count vs duration, H1 vs H2. Audience: Operations · Client Success · Product."
+  },
+  "monthlyData": [
+    {
+      "month": "Mar'25",
+      "uploaded": 639,
+      "created": 2555,
+      "published": 0,
+      "uploadedDur": 122.06,
+      "createdDur": 176.28,
+      "publishedDur": 0
+    },
+    {
+      "month": "Apr'25",
+      "uploaded": 533,
+      "created": 1656,
+      "published": 44,
+      "uploadedDur": 65.47,
+      "createdDur": 98.02,
+      "publishedDur": 1.09
+    },
+    {
+      "month": "May'25",
+      "uploaded": 217,
+      "created": 642,
+      "published": 4,
+      "uploadedDur": 46.95,
+      "createdDur": 64.45,
+      "publishedDur": 0.06
+    },
+    {
+      "month": "Jun'25",
+      "uploaded": 239,
+      "created": 907,
+      "published": 3,
+      "uploadedDur": 47.18,
+      "createdDur": 84.16,
+      "publishedDur": 0.2
+    },
+    {
+      "month": "Jul'25",
+      "uploaded": 284,
+      "created": 892,
+      "published": 0,
+      "uploadedDur": 33.62,
+      "createdDur": 66.84,
+      "publishedDur": 0
+    },
+    {
+      "month": "Aug'25",
+      "uploaded": 256,
+      "created": 699,
+      "published": 7,
+      "uploadedDur": 39.94,
+      "createdDur": 64.52,
+      "publishedDur": 0.11
+    },
+    {
+      "month": "Sep'25",
+      "uploaded": 227,
+      "created": 684,
+      "published": 0,
+      "uploadedDur": 34.35,
+      "createdDur": 58.63,
+      "publishedDur": 0
+    },
+    {
+      "month": "Oct'25",
+      "uploaded": 343,
+      "created": 1046,
+      "published": 10,
+      "uploadedDur": 47.86,
+      "createdDur": 94.29,
+      "publishedDur": 0.25
+    },
+    {
+      "month": "Nov'25",
+      "uploaded": 353,
+      "created": 943,
+      "published": 2,
+      "uploadedDur": 48.12,
+      "createdDur": 83.38,
+      "publishedDur": 0.04
+    },
+    {
+      "month": "Dec'25",
+      "uploaded": 194,
+      "created": 644,
+      "published": 7,
+      "uploadedDur": 38.26,
+      "createdDur": 71.7,
+      "publishedDur": 0.24
+    },
+    {
+      "month": "Jan'26",
+      "uploaded": 492,
+      "created": 1492,
+      "published": 20,
+      "uploadedDur": 121.99,
+      "createdDur": 191.46,
+      "publishedDur": 1.45
+    },
+    {
+      "month": "Feb'26",
+      "uploaded": 676,
+      "created": 2756,
+      "published": 14,
+      "uploadedDur": 161.87,
+      "createdDur": 301.51,
+      "publishedDur": 0.94
+    }
+  ],
+  "metricOptions": [
+    [
+      "count",
+      "Count"
+    ],
+    [
+      "duration",
+      "Duration"
+    ]
+  ],
+  "timeOptions": [
+    [
+      "all",
+      "All 12 months"
+    ]
+  ],
+  "compareToggle": "H1 vs H2 Overlay",
+  "heatLegend": {
+    "colors": [
+      "#1a1614",
+      "#4a2a08",
+      "#7a4a10",
+      "#b87514",
+      "#d4952a",
+      "#f0b84a"
+    ],
+    "label": "Low → Peak creation"
+  },
+  "durationLegend": [
+    [
+      "Upload hrs",
+      "#d4952a"
+    ],
+    [
+      "Created hrs",
+      "#e07038"
+    ],
+    [
+      "Published hrs",
+      "#30b060"
+    ]
+  ]
+}

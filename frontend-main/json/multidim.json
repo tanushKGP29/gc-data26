@@ -1,0 +1,362 @@
+{
+  "meta": {
+    "tag": "CHANNEL \u00b7 USER \u00b7 PLATFORM INTELLIGENCE",
+    "title": "Channel & User Intelligence",
+    "sub": "Which channels and users drive volume, and how dimensions compare. Audience: Operations \u00b7 Client Success \u00b7 Founders."
+  },
+  "inputTypes": [
+    {
+      "type": "interview",
+      "uploaded": 1299,
+      "created": 4972,
+      "published": 35,
+      "uploadedH": 243.89,
+      "createdH": 462.72
+    },
+    {
+      "type": "news bulletin",
+      "uploaded": 1026,
+      "created": 3238,
+      "published": 39,
+      "uploadedH": 171.76,
+      "createdH": 275.87
+    },
+    {
+      "type": "special reports",
+      "uploaded": 755,
+      "created": 2129,
+      "published": 15,
+      "uploadedH": 133.01,
+      "createdH": 197.85
+    },
+    {
+      "type": "speech",
+      "uploaded": 742,
+      "created": 2390,
+      "published": 12,
+      "uploadedH": 132.69,
+      "createdH": 217.79
+    },
+    {
+      "type": "debate",
+      "uploaded": 290,
+      "created": 1074,
+      "published": 5,
+      "uploadedH": 63.69,
+      "createdH": 98.29
+    },
+    {
+      "type": "press conference",
+      "uploaded": 280,
+      "created": 973,
+      "published": 2,
+      "uploadedH": 51.11,
+      "createdH": 85.44
+    },
+    {
+      "type": "discussion-show",
+      "uploaded": 19,
+      "created": 79,
+      "published": 3,
+      "uploadedH": 4.61,
+      "createdH": 10.06
+    },
+    {
+      "type": "sports show",
+      "uploaded": 17,
+      "created": 19,
+      "published": 0,
+      "uploadedH": 2.91,
+      "createdH": 2.92
+    },
+    {
+      "type": "Unknown",
+      "uploaded": 12,
+      "created": 12,
+      "published": 0,
+      "uploadedH": 2.17,
+      "createdH": 2.17
+    },
+    {
+      "type": "podcast",
+      "uploaded": 8,
+      "created": 21,
+      "published": 0,
+      "uploadedH": 0.46,
+      "createdH": 0.68
+    }
+  ],
+  "languages": [
+    {
+      "lang": "English",
+      "uploaded": 2647,
+      "created": 8861,
+      "published": 91,
+      "uploadedH": 437.5
+    },
+    {
+      "lang": "Hindi",
+      "uploaded": 1792,
+      "created": 6021,
+      "published": 20,
+      "uploadedH": 366.56
+    },
+    {
+      "lang": "Mixed",
+      "uploaded": 11,
+      "created": 29,
+      "published": 0,
+      "uploadedH": 2.51
+    },
+    {
+      "lang": "Spanish",
+      "uploaded": 1,
+      "created": 1,
+      "published": 0,
+      "uploadedH": 0.07
+    },
+    {
+      "lang": "Arabic",
+      "uploaded": 1,
+      "created": 1,
+      "published": 0,
+      "uploadedH": 1.01
+    }
+  ],
+  "users": [
+    {
+      "user": "Chandan",
+      "uploaded": 489,
+      "created": 2152,
+      "published": 19,
+      "uploadedH": 100.73
+    },
+    {
+      "user": "QA-Purushottam",
+      "uploaded": 309,
+      "created": 1227,
+      "published": 13,
+      "uploadedH": 33.15
+    },
+    {
+      "user": "vikas.s",
+      "uploaded": 265,
+      "created": 1094,
+      "published": 4,
+      "uploadedH": 61.37
+    },
+    {
+      "user": "Sandeep B.",
+      "uploaded": 253,
+      "created": 1039,
+      "published": 7,
+      "uploadedH": 40
+    },
+    {
+      "user": "Nitesh",
+      "uploaded": 224,
+      "created": 959,
+      "published": 0,
+      "uploadedH": 59.96
+    },
+    {
+      "user": "Abhishek",
+      "uploaded": 201,
+      "created": 408,
+      "published": 8,
+      "uploadedH": 19.43
+    },
+    {
+      "user": "Auto Upload",
+      "uploaded": 185,
+      "created": 220,
+      "published": 0,
+      "uploadedH": 41.87
+    },
+    {
+      "user": "Subhesh",
+      "uploaded": 184,
+      "created": 489,
+      "published": 7,
+      "uploadedH": 21.61
+    },
+    {
+      "user": "Trivendra",
+      "uploaded": 179,
+      "created": 825,
+      "published": 3,
+      "uploadedH": 61.15
+    },
+    {
+      "user": "Dheeraj P.",
+      "uploaded": 166,
+      "created": 482,
+      "published": 2,
+      "uploadedH": 16.13
+    },
+    {
+      "user": "Vinay S.",
+      "uploaded": 161,
+      "created": 530,
+      "published": 3,
+      "uploadedH": 33.5
+    },
+    {
+      "user": "Neha",
+      "uploaded": 158,
+      "created": 510,
+      "published": 10,
+      "uploadedH": 20.19
+    }
+  ],
+  "channelMetrics": [
+    {
+      "label": "A",
+      "uploaded": 1470,
+      "created": 4725,
+      "published": 71
+    },
+    {
+      "label": "B",
+      "uploaded": 1293,
+      "created": 4251,
+      "published": 19
+    },
+    {
+      "label": "C",
+      "uploaded": 765,
+      "created": 2631,
+      "published": 14
+    },
+    {
+      "label": "D",
+      "uploaded": 221,
+      "created": 701,
+      "published": 0
+    },
+    {
+      "label": "E",
+      "uploaded": 201,
+      "created": 807,
+      "published": 5
+    },
+    {
+      "label": "F",
+      "uploaded": 130,
+      "created": 320,
+      "published": 0
+    },
+    {
+      "label": "G",
+      "uploaded": 106,
+      "created": 351,
+      "published": 1
+    },
+    {
+      "label": "H",
+      "uploaded": 89,
+      "created": 329,
+      "published": 1
+    },
+    {
+      "label": "I",
+      "uploaded": 59,
+      "created": 262,
+      "published": 0
+    },
+    {
+      "label": "J",
+      "uploaded": 37,
+      "created": 145,
+      "published": 0
+    },
+    {
+      "label": "K",
+      "uploaded": 29,
+      "created": 83,
+      "published": 0
+    },
+    {
+      "label": "L",
+      "uploaded": 17,
+      "created": 216,
+      "published": 0
+    },
+    {
+      "label": "M",
+      "uploaded": 8,
+      "created": 14,
+      "published": 0
+    },
+    {
+      "label": "N",
+      "uploaded": 8,
+      "created": 21,
+      "published": 0
+    },
+    {
+      "label": "O",
+      "uploaded": 7,
+      "created": 18,
+      "published": 0
+    },
+    {
+      "label": "P",
+      "uploaded": 5,
+      "created": 14,
+      "published": 0
+    },
+    {
+      "label": "Q",
+      "uploaded": 5,
+      "created": 19,
+      "published": 0
+    },
+    {
+      "label": "R",
+      "uploaded": 3,
+      "created": 7,
+      "published": 0
+    }
+  ],
+  "kpiOptions": [
+    {
+      "k": "uploaded",
+      "l": "Uploaded"
+    },
+    {
+      "k": "created",
+      "l": "Created"
+    },
+    {
+      "k": "published",
+      "l": "Published"
+    },
+    {
+      "k": "pub_rate",
+      "l": "Pub Rate"
+    }
+  ],
+  "viewOptions": [
+    [
+      "bar",
+      "Bar Chart"
+    ],
+    [
+      "treemap",
+      "Treemap"
+    ]
+  ],
+  "treemapColors": [
+    "#b87514",
+    "#c45e22",
+    "#a87850",
+    "#7a6858",
+    "#5a7868",
+    "#9b7058",
+    "#6a8870",
+    "#8a7060",
+    "#b8a070",
+    "#887060"
+  ]
+}

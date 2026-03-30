@@ -1,0 +1,16 @@
+{
+  "threshold": 4368.0,
+  "platform_values": [
+    "facebook",
+    "instagram",
+    "reddit",
+    "tiktok",
+    "twitter",
+    "x",
+    "youtube",
+    "youtube shorts"
+  ],
+  "auc": 0.7679259670558427,
+  "training_rows": 14000,
+  "training_path": "data\\combined_video_dataset.csv"
+}

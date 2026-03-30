@@ -1,0 +1,928 @@
+{
+  "meta": {
+    "tag": "VIDEO EXPLORER & DATA QUALITY",
+    "title": "Data Explorer & Quality Diagnostics",
+    "sub": "User rankings, channel drilldown, data completeness, KPI framework tree. Audience: Operations \u00b7 Tech \u00b7 QA."
+  },
+  "subTabs": [
+    [
+      "users",
+      "User Rankings"
+    ],
+    [
+      "channels",
+      "Channel Drilldown"
+    ],
+    [
+      "advanced_kpi",
+      "Advanced KPI"
+    ]
+  ],
+  "userSortOptions": [
+    [
+      "created",
+      "Created"
+    ],
+    [
+      "published",
+      "Published"
+    ],
+    [
+      "uploaded",
+      "Uploaded"
+    ]
+  ],
+  "users": [
+    {
+      "user": "Chandan",
+      "uploaded": 489,
+      "created": 2152,
+      "published": 19,
+      "uploadedH": 100.73
+    },
+    {
+      "user": "QA-Purushottam",
+      "uploaded": 309,
+      "created": 1227,
+      "published": 13,
+      "uploadedH": 33.15
+    },
+    {
+      "user": "vikas.s",
+      "uploaded": 265,
+      "created": 1094,
+      "published": 4,
+      "uploadedH": 61.37
+    },
+    {
+      "user": "Sandeep B.",
+      "uploaded": 253,
+      "created": 1039,
+      "published": 7,
+      "uploadedH": 40
+    },
+    {
+      "user": "Nitesh",
+      "uploaded": 224,
+      "created": 959,
+      "published": 0,
+      "uploadedH": 59.96
+    },
+    {
+      "user": "Abhishek",
+      "uploaded": 201,
+      "created": 408,
+      "published": 8,
+      "uploadedH": 19.43
+    },
+    {
+      "user": "Auto Upload",
+      "uploaded": 185,
+      "created": 220,
+      "published": 0,
+      "uploadedH": 41.87
+    },
+    {
+      "user": "Subhesh",
+      "uploaded": 184,
+      "created": 489,
+      "published": 7,
+      "uploadedH": 21.61
+    },
+    {
+      "user": "Trivendra",
+      "uploaded": 179,
+      "created": 825,
+      "published": 3,
+      "uploadedH": 61.15
+    },
+    {
+      "user": "Dheeraj P.",
+      "uploaded": 166,
+      "created": 482,
+      "published": 2,
+      "uploadedH": 16.13
+    },
+    {
+      "user": "Vinay S.",
+      "uploaded": 161,
+      "created": 530,
+      "published": 3,
+      "uploadedH": 33.5
+    },
+    {
+      "user": "Neha",
+      "uploaded": 158,
+      "created": 510,
+      "published": 10,
+      "uploadedH": 20.19
+    }
+  ],
+  "languages": [
+    {
+      "lang": "English",
+      "uploaded": 2647,
+      "created": 8861,
+      "published": 91,
+      "uploadedH": 437.5
+    },
+    {
+      "lang": "Hindi",
+      "uploaded": 1792,
+      "created": 6021,
+      "published": 20,
+      "uploadedH": 366.56
+    },
+    {
+      "lang": "Mixed",
+      "uploaded": 11,
+      "created": 29,
+      "published": 0,
+      "uploadedH": 2.51
+    },
+    {
+      "lang": "Spanish",
+      "uploaded": 1,
+      "created": 1,
+      "published": 0,
+      "uploadedH": 0.07
+    },
+    {
+      "lang": "Arabic",
+      "uploaded": 1,
+      "created": 1,
+      "published": 0,
+      "uploadedH": 1.01
+    }
+  ],
+  "inputTypes": [
+    {
+      "type": "interview",
+      "uploaded": 1299,
+      "created": 4972,
+      "published": 35,
+      "uploadedH": 243.89,
+      "createdH": 462.72
+    },
+    {
+      "type": "news bulletin",
+      "uploaded": 1026,
+      "created": 3238,
+      "published": 39,
+      "uploadedH": 171.76,
+      "createdH": 275.87
+    },
+    {
+      "type": "special reports",
+      "uploaded": 755,
+      "created": 2129,
+      "published": 15,
+      "uploadedH": 133.01,
+      "createdH": 197.85
+    },
+    {
+      "type": "speech",
+      "uploaded": 742,
+      "created": 2390,
+      "published": 12,
+      "uploadedH": 132.69,
+      "createdH": 217.79
+    },
+    {
+      "type": "debate",
+      "uploaded": 290,
+      "created": 1074,
+      "published": 5,
+      "uploadedH": 63.69,
+      "createdH": 98.29
+    },
+    {
+      "type": "press conference",
+      "uploaded": 280,
+      "created": 973,
+      "published": 2,
+      "uploadedH": 51.11,
+      "createdH": 85.44
+    },
+    {
+      "type": "discussion-show",
+      "uploaded": 19,
+      "created": 79,
+      "published": 3,
+      "uploadedH": 4.61,
+      "createdH": 10.06
+    },
+    {
+      "type": "sports show",
+      "uploaded": 17,
+      "created": 19,
+      "published": 0,
+      "uploadedH": 2.91,
+      "createdH": 2.92
+    },
+    {
+      "type": "Unknown",
+      "uploaded": 12,
+      "created": 12,
+      "published": 0,
+      "uploadedH": 2.17,
+      "createdH": 2.17
+    },
+    {
+      "type": "podcast",
+      "uploaded": 8,
+      "created": 21,
+      "published": 0,
+      "uploadedH": 0.46,
+      "createdH": 0.68
+    }
+  ],
+  "channelMetrics": [
+    {
+      "label": "A",
+      "uploaded": 1470,
+      "created": 4725,
+      "published": 71
+    },
+    {
+      "label": "B",
+      "uploaded": 1293,
+      "created": 4251,
+      "published": 19
+    },
+    {
+      "label": "C",
+      "uploaded": 765,
+      "created": 2631,
+      "published": 14
+    },
+    {
+      "label": "D",
+      "uploaded": 221,
+      "created": 701,
+      "published": 0
+    },
+    {
+      "label": "E",
+      "uploaded": 201,
+      "created": 807,
+      "published": 5
+    },
+    {
+      "label": "F",
+      "uploaded": 130,
+      "created": 320,
+      "published": 0
+    },
+    {
+      "label": "G",
+      "uploaded": 106,
+      "created": 351,
+      "published": 1
+    },
+    {
+      "label": "H",
+      "uploaded": 89,
+      "created": 329,
+      "published": 1
+    },
+    {
+      "label": "I",
+      "uploaded": 59,
+      "created": 262,
+      "published": 0
+    },
+    {
+      "label": "J",
+      "uploaded": 37,
+      "created": 145,
+      "published": 0
+    },
+    {
+      "label": "K",
+      "uploaded": 29,
+      "created": 83,
+      "published": 0
+    },
+    {
+      "label": "L",
+      "uploaded": 17,
+      "created": 216,
+      "published": 0
+    },
+    {
+      "label": "M",
+      "uploaded": 8,
+      "created": 14,
+      "published": 0
+    },
+    {
+      "label": "N",
+      "uploaded": 8,
+      "created": 21,
+      "published": 0
+    },
+    {
+      "label": "O",
+      "uploaded": 7,
+      "created": 18,
+      "published": 0
+    },
+    {
+      "label": "P",
+      "uploaded": 5,
+      "created": 14,
+      "published": 0
+    },
+    {
+      "label": "Q",
+      "uploaded": 5,
+      "created": 19,
+      "published": 0
+    },
+    {
+      "label": "R",
+      "uploaded": 3,
+      "created": 7,
+      "published": 0
+    }
+  ],
+  "platformNames": [
+    "YouTube",
+    "Reels",
+    "Shorts",
+    "Facebook",
+    "Instagram"
+  ],
+  "platformHeatmap": [
+    {
+      "channel": "Ch-A",
+      "values": [
+        5,
+        5,
+        1,
+        1,
+        7
+      ]
+    },
+    {
+      "channel": "Ch-B",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-C",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-D",
+      "values": [
+        29,
+        15,
+        18,
+        6,
+        3
+      ]
+    },
+    {
+      "channel": "Ch-E",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-F",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-G",
+      "values": [
+        0,
+        11,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-H",
+      "values": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-I",
+      "values": [
+        0,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "channel": "Ch-J",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-K",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-L",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-M",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-N",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-O",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-P",
+      "values": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-Q",
+      "values": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "channel": "Ch-R",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "dataQualityRows": [
+    {
+      "l": "Missing Values by Field",
+      "v": "28.1%",
+      "c": "var(--red-lt)",
+      "severity": "critical",
+      "detail": "Team name, platform, and publish URL fields have significant missing values across 4,453 records. Team name alone is missing in 99.3% of rows.",
+      "pct": 28
+    },
+    {
+      "l": "\"Unknown\" Buckets",
+      "v": "99.3%",
+      "c": "var(--red-lt)",
+      "severity": "critical",
+      "detail": "99.3% of all records have team_name = 'Unknown'. Input type has 12 'Unknown' entries. Language has 0 unknowns. Impedes team-level attribution.",
+      "pct": 99
+    },
+    {
+      "l": "Duplicate Video/Job IDs",
+      "v": "~15.5%",
+      "c": "var(--amber-lt)",
+      "severity": "warning",
+      "detail": "Estimated 15.5% of created outputs appear to be duplicate or QA/test artifacts. 2,344 potential duplicate job IDs inflating creation count.",
+      "pct": 16
+    },
+    {
+      "l": "Invalid/Malformed Publish URLs",
+      "v": "68%",
+      "c": "var(--red-lt)",
+      "severity": "critical",
+      "detail": "68% of published items (76 of 111) have NULL or malformed publish URLs. Distribution destination cannot be confirmed for the majority of published content.",
+      "pct": 68
+    },
+    {
+      "l": "Null Platform/Team Mappings",
+      "v": "99.5%",
+      "c": "var(--red-lt)",
+      "severity": "critical",
+      "detail": "99.3% team name NULL + 68% platform NULL on published rows. Cross-referencing team → channel → platform is broken, preventing attribution analysis.",
+      "pct": 99
+    }
+  ],
+  "completenessRings": [
+    {
+      "label": "Field Coverage",
+      "pct": 72,
+      "color": "var(--amber)",
+      "size": 68
+    },
+    {
+      "label": "ID Integrity",
+      "pct": 84,
+      "color": "var(--amber)",
+      "size": 54
+    },
+    {
+      "label": "URL Validity",
+      "pct": 32,
+      "color": "var(--red)",
+      "size": 54
+    }
+  ],
+  "languageDonut": [
+    {
+      "label": "English",
+      "value": 2647,
+      "color": "#d4952a"
+    },
+    {
+      "label": "Hindi",
+      "value": 1792,
+      "color": "#e07038"
+    },
+    {
+      "label": "Other",
+      "value": 13,
+      "color": "#3a3630"
+    }
+  ],
+  "hierarchyOptions": {
+    "root": [
+      [
+        "channel",
+        "Channel"
+      ],
+      [
+        "inputtype",
+        "Input type"
+      ],
+      [
+        "language",
+        "Language"
+      ]
+    ],
+    "child": [
+      [
+        "user",
+        "User"
+      ],
+      [
+        "channel",
+        "Channel"
+      ],
+      [
+        "inputtype",
+        "Input type"
+      ]
+    ],
+    "metric": [
+      [
+        "cr",
+        "Created"
+      ],
+      [
+        "up",
+        "Uploaded"
+      ],
+      [
+        "pb",
+        "Published"
+      ]
+    ]
+  },
+  "kpiTree": {
+    "name": "Frammer KPI Framework",
+    "type": "root",
+    "children": [
+      {
+        "name": "[A] Usage & Adoption",
+        "type": "category",
+        "color": "#d4952a",
+        "children": [
+          {
+            "name": "3A Executive",
+            "type": "group",
+            "children": [
+              {
+                "name": "Total Platform Volume",
+                "formula": "SUM(Uploaded)",
+                "value": "4,453",
+                "critical": false,
+                "avail": "direct"
+              },
+              {
+                "name": "Total AI Outputs Created",
+                "formula": "SUM(Created)",
+                "value": "14,914",
+                "critical": false,
+                "avail": "direct"
+              },
+              {
+                "name": "Total Published",
+                "formula": "SUM(Published)",
+                "value": "111",
+                "critical": false,
+                "avail": "direct"
+              },
+              {
+                "name": "AI Creation Multiplier",
+                "formula": "Created / Uploaded",
+                "value": "3.35\u00d7",
+                "critical": false,
+                "avail": "derived"
+              },
+              {
+                "name": "Active Channels",
+                "formula": "COUNT(channels with Uploaded > 0)",
+                "value": "18/18",
+                "critical": false,
+                "avail": "direct"
+              }
+            ]
+          },
+          {
+            "name": "3B Adoption",
+            "type": "group",
+            "children": [
+              {
+                "name": "Monthly Upload Volume",
+                "formula": "SUM(Uploaded) per month",
+                "value": "194\u2013676/mo",
+                "critical": false,
+                "avail": "direct"
+              },
+              {
+                "name": "Active Users",
+                "formula": "COUNT(users with Uploaded > 0)",
+                "value": "44/45",
+                "critical": false,
+                "avail": "direct"
+              },
+              {
+                "name": "Zero-Upload Users",
+                "formula": "COUNT(users with Uploaded = 0)",
+                "value": "1 (Sumit)",
+                "critical": false,
+                "avail": "direct"
+              },
+              {
+                "name": "User Concentration Top 5",
+                "formula": "Top 5 Created / Total Created",
+                "value": "~50%",
+                "critical": false,
+                "avail": "derived"
+              },
+              {
+                "name": "Auto-Upload Volume Share",
+                "formula": "Auto Upload Created / Total \u00d7 100",
+                "value": "1.5%",
+                "critical": false,
+                "avail": "derived"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "[B] Output Mix & Trends",
+        "type": "category",
+        "color": "#e07038",
+        "children": [
+          {
+            "name": "3C Content Mix",
+            "type": "group",
+            "children": [
+              {
+                "name": "Channel Input Type Distribution",
+                "formula": "COUNT by Input Type / Total",
+                "value": "Interview 29.1%",
+                "critical": false,
+                "avail": "direct"
+              },
+              {
+                "name": "Output Type Distribution",
+                "formula": "COUNT by Output / Total Created",
+                "value": "Key Moments 42.8%",
+                "critical": false,
+                "avail": "direct"
+              },
+              {
+                "name": "Language Mix",
+                "formula": "COUNT by Language / Total",
+                "value": "EN 59.4%, HI 40.2%",
+                "critical": false,
+                "avail": "direct"
+              },
+              {
+                "name": "English Publish Dominance",
+                "formula": "EN Published / Total Published \u00d7 100",
+                "value": "82%",
+                "critical": false,
+                "avail": "derived"
+              },
+              {
+                "name": "Hindi Publish Underperformance",
+                "formula": "Hindi Pub Rate vs English Pub Rate",
+                "value": "0.33% vs 1.03%",
+                "critical": true,
+                "avail": "derived"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "[C] Publishing Funnel",
+        "type": "category",
+        "color": "#b85010",
+        "children": [
+          {
+            "name": "3D Funnel KPIs",
+            "type": "group",
+            "children": [
+              {
+                "name": "Stage 1: Upload\u2192Create",
+                "formula": "Created / Uploaded \u00d7 100",
+                "value": "335%",
+                "critical": false,
+                "avail": "derived"
+              },
+              {
+                "name": "Stage 2: Create\u2192Publish",
+                "formula": "Published / Created \u00d7 100",
+                "value": "0.74% \u26a0 CRITICAL",
+                "critical": true,
+                "avail": "derived"
+              },
+              {
+                "name": "Publish Drop-off Volume",
+                "formula": "Created \u2013 Published",
+                "value": "14,803 lost",
+                "critical": true,
+                "avail": "derived"
+              },
+              {
+                "name": "Channel Publish Concentration",
+                "formula": "% publishes in top 1 channel",
+                "value": "Ch-A: 64%",
+                "critical": true,
+                "avail": "derived"
+              },
+              {
+                "name": "Zero-Publish Channel Rate",
+                "formula": "Channels with 0 pub / Total",
+                "value": "12/18 = 67%",
+                "critical": true,
+                "avail": "derived"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "[D] Team / User / Platform",
+        "type": "category",
+        "color": "#3080e0",
+        "children": [
+          {
+            "name": "3F User Productivity",
+            "type": "group",
+            "children": [
+              {
+                "name": "Outputs Created per User",
+                "formula": "SUM(Created) by user",
+                "value": "Chandan: 2152 top",
+                "critical": false,
+                "avail": "direct"
+              },
+              {
+                "name": "User Publish Rate",
+                "formula": "Published / Created per user",
+                "value": "Neha 1.96%; 26/45 = 0%",
+                "critical": true,
+                "avail": "derived"
+              },
+              {
+                "name": "Power User Concentration",
+                "formula": "% users = 80% of volume",
+                "value": "Top 36% = 80%",
+                "critical": false,
+                "avail": "derived"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "[E] Data Quality",
+        "type": "category",
+        "color": "#30b060",
+        "children": [
+          {
+            "name": "3I Governance",
+            "type": "group",
+            "children": [
+              {
+                "name": "Team Name Unknown Rate",
+                "formula": "Team='Unknown' / Total \u00d7 100",
+                "value": "99.3% \ud83d\udd34",
+                "critical": true,
+                "avail": "derived"
+              },
+              {
+                "name": "Published Platform NULL Rate",
+                "formula": "NULL Platform / Published \u00d7 100",
+                "value": "68% \ud83d\udd34",
+                "critical": true,
+                "avail": "derived"
+              },
+              {
+                "name": "Published URL NULL Rate",
+                "formula": "NULL URL / Total \u00d7 100",
+                "value": "99.8% \ud83d\udd34",
+                "critical": true,
+                "avail": "derived"
+              },
+              {
+                "name": "QA/Test Contamination Rate",
+                "formula": "QA+Test Created / Total \u00d7 100",
+                "value": "~15.5% \ud83d\udfe0",
+                "critical": true,
+                "avail": "derived"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

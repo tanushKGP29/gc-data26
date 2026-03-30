@@ -1,0 +1,1654 @@
+[
+  {
+    "channel": "A",
+    "user": "Chandan",
+    "uploaded": 247,
+    "created": 1029,
+    "published": 18
+  },
+  {
+    "channel": "B",
+    "user": "Auto Upload",
+    "uploaded": 176,
+    "created": 176,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Sandeep Belaki",
+    "uploaded": 133,
+    "created": 560,
+    "published": 3
+  },
+  {
+    "channel": "A",
+    "user": "Adarsh (Frammer)",
+    "uploaded": 104,
+    "created": 182,
+    "published": 2
+  },
+  {
+    "channel": "B",
+    "user": "Nitesh",
+    "uploaded": 103,
+    "created": 487,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Nitesh",
+    "uploaded": 99,
+    "created": 367,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "QA-Purushottam",
+    "uploaded": 93,
+    "created": 392,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "QA-Purushottam",
+    "uploaded": 91,
+    "created": 346,
+    "published": 1
+  },
+  {
+    "channel": "B",
+    "user": "Trivendra",
+    "uploaded": 91,
+    "created": 406,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Chandan",
+    "uploaded": 87,
+    "created": 408,
+    "published": 1
+  },
+  {
+    "channel": "A",
+    "user": "vikas.s@moolya.com",
+    "uploaded": 85,
+    "created": 321,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Anamika Singh",
+    "uploaded": 84,
+    "created": 410,
+    "published": 2
+  },
+  {
+    "channel": "A",
+    "user": "Ashween",
+    "uploaded": 80,
+    "created": 84,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Abhishek",
+    "uploaded": 74,
+    "created": 144,
+    "published": 3
+  },
+  {
+    "channel": "A",
+    "user": "QA-Purushottam",
+    "uploaded": 72,
+    "created": 270,
+    "published": 10
+  },
+  {
+    "channel": "B",
+    "user": "Subhesh",
+    "uploaded": 70,
+    "created": 146,
+    "published": 4
+  },
+  {
+    "channel": "B",
+    "user": "AB",
+    "uploaded": 67,
+    "created": 227,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Chandan",
+    "uploaded": 67,
+    "created": 274,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Neha",
+    "uploaded": 67,
+    "created": 201,
+    "published": 7
+  },
+  {
+    "channel": "C",
+    "user": "vinay singh",
+    "uploaded": 66,
+    "created": 247,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Trivendra",
+    "uploaded": 64,
+    "created": 306,
+    "published": 1
+  },
+  {
+    "channel": "B",
+    "user": "Abhishek",
+    "uploaded": 54,
+    "created": 97,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Dheeraj Pareek(QA theveritycorp.com)",
+    "uploaded": 53,
+    "created": 155,
+    "published": 2
+  },
+  {
+    "channel": "A",
+    "user": "Vaibhav",
+    "uploaded": 52,
+    "created": 149,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Prithviraj",
+    "uploaded": 51,
+    "created": 69,
+    "published": 2
+  },
+  {
+    "channel": "C",
+    "user": "Divyanshu Dutta Roy",
+    "uploaded": 50,
+    "created": 267,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Subhesh",
+    "uploaded": 50,
+    "created": 90,
+    "published": 2
+  },
+  {
+    "channel": "B",
+    "user": "vinay singh",
+    "uploaded": 46,
+    "created": 181,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Chandan",
+    "uploaded": 46,
+    "created": 231,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Rakesh (devops@frammer.com)",
+    "uploaded": 45,
+    "created": 74,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Sandeep Belaki",
+    "uploaded": 44,
+    "created": 167,
+    "published": 4
+  },
+  {
+    "channel": "B",
+    "user": "vikas.s@moolya.com",
+    "uploaded": 42,
+    "created": 148,
+    "published": 1
+  },
+  {
+    "channel": "D",
+    "user": "Dheeraj Pareek(QA theveritycorp.com)",
+    "uploaded": 42,
+    "created": 115,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Subhash (moolya)",
+    "uploaded": 40,
+    "created": 119,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "vikas.s@moolya.com",
+    "uploaded": 38,
+    "created": 176,
+    "published": 0
+  },
+  {
+    "channel": "H",
+    "user": "vikas.s@moolya.com",
+    "uploaded": 37,
+    "created": 169,
+    "published": 1
+  },
+  {
+    "channel": "C",
+    "user": "Abhishek",
+    "uploaded": 36,
+    "created": 74,
+    "published": 5
+  },
+  {
+    "channel": "C",
+    "user": "Subhesh",
+    "uploaded": 35,
+    "created": 117,
+    "published": 1
+  },
+  {
+    "channel": "C",
+    "user": "Alok Rai",
+    "uploaded": 35,
+    "created": 40,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "QA-Bhargavi",
+    "uploaded": 34,
+    "created": 111,
+    "published": 1
+  },
+  {
+    "channel": "D",
+    "user": "Shadab",
+    "uploaded": 34,
+    "created": 86,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "AB",
+    "uploaded": 33,
+    "created": 136,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "QA-Ankith",
+    "uploaded": 32,
+    "created": 84,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Deepika Uniyal (QA testaing.com)",
+    "uploaded": 32,
+    "created": 198,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Alok Rai",
+    "uploaded": 31,
+    "created": 71,
+    "published": 1
+  },
+  {
+    "channel": "C",
+    "user": "Abhishek Sri",
+    "uploaded": 29,
+    "created": 113,
+    "published": 1
+  },
+  {
+    "channel": "B",
+    "user": "Divyanshu Dutta Roy",
+    "uploaded": 28,
+    "created": 82,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "vinay singh",
+    "uploaded": 28,
+    "created": 62,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Dheeraj Pareek(QA theveritycorp.com)",
+    "uploaded": 28,
+    "created": 113,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Harish",
+    "uploaded": 27,
+    "created": 82,
+    "published": 6
+  },
+  {
+    "channel": "B",
+    "user": "QA-Bhargavi",
+    "uploaded": 26,
+    "created": 113,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "vikas.s@moolya.com",
+    "uploaded": 26,
+    "created": 110,
+    "published": 1
+  },
+  {
+    "channel": "C",
+    "user": "Sandeep Belaki",
+    "uploaded": 26,
+    "created": 87,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Abhishek Sri",
+    "uploaded": 26,
+    "created": 199,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Subhash (moolya)",
+    "uploaded": 25,
+    "created": 92,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Shadab",
+    "uploaded": 25,
+    "created": 74,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Neha",
+    "uploaded": 25,
+    "created": 98,
+    "published": 3
+  },
+  {
+    "channel": "C",
+    "user": "Vaibhav",
+    "uploaded": 25,
+    "created": 70,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Neha",
+    "uploaded": 23,
+    "created": 76,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "QA-Purushottam",
+    "uploaded": 22,
+    "created": 95,
+    "published": 2
+  },
+  {
+    "channel": "B",
+    "user": "Ravi Pratap Rai",
+    "uploaded": 22,
+    "created": 26,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Adarsh (Frammer)",
+    "uploaded": 22,
+    "created": 50,
+    "published": 3
+  },
+  {
+    "channel": "A",
+    "user": "Shadab",
+    "uploaded": 22,
+    "created": 57,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Dheeraj Pareek(QA theveritycorp.com)",
+    "uploaded": 21,
+    "created": 52,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "sukhleen",
+    "uploaded": 21,
+    "created": 73,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Neha",
+    "uploaded": 21,
+    "created": 58,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "QA-Purushottam",
+    "uploaded": 17,
+    "created": 60,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "QA-Aniket",
+    "uploaded": 17,
+    "created": 74,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "sukhleen",
+    "uploaded": 17,
+    "created": 27,
+    "published": 1
+  },
+  {
+    "channel": "C",
+    "user": "Chandan",
+    "uploaded": 17,
+    "created": 78,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Anamika Singh",
+    "uploaded": 17,
+    "created": 115,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Abhishek",
+    "uploaded": 16,
+    "created": 29,
+    "published": 0
+  },
+  {
+    "channel": "I",
+    "user": "Sandeep Belaki",
+    "uploaded": 16,
+    "created": 79,
+    "published": 0
+  },
+  {
+    "channel": "H",
+    "user": "Kallol Pratim",
+    "uploaded": 16,
+    "created": 62,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Vaibhav",
+    "uploaded": 16,
+    "created": 46,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "deleteme@frammer.com",
+    "uploaded": 16,
+    "created": 38,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Ritwik",
+    "uploaded": 15,
+    "created": 16,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Subhesh",
+    "uploaded": 14,
+    "created": 24,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Ashween",
+    "uploaded": 14,
+    "created": 14,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "Chandan",
+    "uploaded": 14,
+    "created": 85,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "QA-Aniket",
+    "uploaded": 13,
+    "created": 41,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Abhishek",
+    "uploaded": 13,
+    "created": 41,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Harish",
+    "uploaded": 13,
+    "created": 40,
+    "published": 1
+  },
+  {
+    "channel": "J",
+    "user": "Sandeep Belaki",
+    "uploaded": 13,
+    "created": 82,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Trivendra",
+    "uploaded": 13,
+    "created": 77,
+    "published": 2
+  },
+  {
+    "channel": "A",
+    "user": "Ravi Pratap Rai",
+    "uploaded": 12,
+    "created": 21,
+    "published": 0
+  },
+  {
+    "channel": "K",
+    "user": "Sandeep Belaki",
+    "uploaded": 12,
+    "created": 40,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Subhash (moolya)",
+    "uploaded": 12,
+    "created": 23,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Subhash (moolya)",
+    "uploaded": 12,
+    "created": 38,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "sukhleen",
+    "uploaded": 12,
+    "created": 21,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Anamika Singh",
+    "uploaded": 12,
+    "created": 21,
+    "published": 0
+  },
+  {
+    "channel": "I",
+    "user": "vikas.s@moolya.com",
+    "uploaded": 11,
+    "created": 57,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Richa",
+    "uploaded": 11,
+    "created": 19,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "Neha",
+    "uploaded": 11,
+    "created": 32,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Alok Rai",
+    "uploaded": 10,
+    "created": 12,
+    "published": 3
+  },
+  {
+    "channel": "A",
+    "user": "Divyanshu Dutta Roy",
+    "uploaded": 10,
+    "created": 23,
+    "published": 0
+  },
+  {
+    "channel": "I",
+    "user": "vinay singh",
+    "uploaded": 10,
+    "created": 22,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Nitesh",
+    "uploaded": 10,
+    "created": 16,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Abhishek Sri",
+    "uploaded": 10,
+    "created": 23,
+    "published": 0
+  },
+  {
+    "channel": "H",
+    "user": "Subhash (moolya)",
+    "uploaded": 10,
+    "created": 20,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Dheeraj Pareek(QA theveritycorp.com)",
+    "uploaded": 10,
+    "created": 27,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Deepika Uniyal (QA testaing.com)",
+    "uploaded": 10,
+    "created": 59,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "Deepika Uniyal (QA testaing.com)",
+    "uploaded": 10,
+    "created": 43,
+    "published": 0
+  },
+  {
+    "channel": "H",
+    "user": "sukhleen",
+    "uploaded": 10,
+    "created": 23,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Deepika Uniyal (QA testaing.com)",
+    "uploaded": 10,
+    "created": 51,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "QA-Bhargavi",
+    "uploaded": 9,
+    "created": 27,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Ritwik",
+    "uploaded": 9,
+    "created": 9,
+    "published": 0
+  },
+  {
+    "channel": "I",
+    "user": "QA-Purushottam",
+    "uploaded": 9,
+    "created": 44,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "vikas.s@moolya.com",
+    "uploaded": 9,
+    "created": 58,
+    "published": 1
+  },
+  {
+    "channel": "H",
+    "user": "Chandan",
+    "uploaded": 9,
+    "created": 42,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Subhesh",
+    "uploaded": 9,
+    "created": 21,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Adarsh (Frammer)",
+    "uploaded": 9,
+    "created": 24,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "QA-Ankith",
+    "uploaded": 8,
+    "created": 22,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Auto Upload",
+    "uploaded": 8,
+    "created": 43,
+    "published": 0
+  },
+  {
+    "channel": "L",
+    "user": "Subhash (moolya)",
+    "uploaded": 8,
+    "created": 22,
+    "published": 0
+  },
+  {
+    "channel": "M",
+    "user": "Subhash (moolya)",
+    "uploaded": 8,
+    "created": 14,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "Dheeraj Pareek(QA theveritycorp.com)",
+    "uploaded": 8,
+    "created": 12,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Prithviraj",
+    "uploaded": 7,
+    "created": 12,
+    "published": 0
+  },
+  {
+    "channel": "J",
+    "user": "Kallol Pratim",
+    "uploaded": 7,
+    "created": 11,
+    "published": 0
+  },
+  {
+    "channel": "K",
+    "user": "vikas.s@moolya.com",
+    "uploaded": 7,
+    "created": 20,
+    "published": 0
+  },
+  {
+    "channel": "I",
+    "user": "Subhash (moolya)",
+    "uploaded": 7,
+    "created": 38,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "sukhleen",
+    "uploaded": 7,
+    "created": 18,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Abhishek Sri",
+    "uploaded": 7,
+    "created": 15,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "Anamika Singh",
+    "uploaded": 7,
+    "created": 15,
+    "published": 0
+  },
+  {
+    "channel": "I",
+    "user": "Abhishek",
+    "uploaded": 6,
+    "created": 20,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Subhash (moolya)",
+    "uploaded": 6,
+    "created": 15,
+    "published": 0
+  },
+  {
+    "channel": "O",
+    "user": "Subhash (moolya)",
+    "uploaded": 6,
+    "created": 15,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Kawaljit Singh Bedi",
+    "uploaded": 6,
+    "created": 7,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "sukhleen",
+    "uploaded": 6,
+    "created": 28,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "sukhleen",
+    "uploaded": 6,
+    "created": 13,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Trivendra",
+    "uploaded": 6,
+    "created": 17,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Ravi Pratap Rai",
+    "uploaded": 5,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "QA-Bhargavi",
+    "uploaded": 5,
+    "created": 19,
+    "published": 5
+  },
+  {
+    "channel": "F",
+    "user": "vinay singh",
+    "uploaded": 5,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Prithviraj",
+    "uploaded": 5,
+    "created": 9,
+    "published": 4
+  },
+  {
+    "channel": "A",
+    "user": "vinay singh",
+    "uploaded": 5,
+    "created": 12,
+    "published": 3
+  },
+  {
+    "channel": "F",
+    "user": "vikas.s@moolya.com",
+    "uploaded": 5,
+    "created": 13,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Kallol Pratim",
+    "uploaded": 5,
+    "created": 7,
+    "published": 0
+  },
+  {
+    "channel": "J",
+    "user": "vikas.s@moolya.com",
+    "uploaded": 5,
+    "created": 22,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Divyanshu Dutta Roy",
+    "uploaded": 5,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Arun J",
+    "uploaded": 5,
+    "created": 13,
+    "published": 0
+  },
+  {
+    "channel": "Q",
+    "user": "Subhash (moolya)",
+    "uploaded": 5,
+    "created": 19,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "Subhash (moolya)",
+    "uploaded": 5,
+    "created": 12,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Sandeep Belaki",
+    "uploaded": 5,
+    "created": 19,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "sukhleen",
+    "uploaded": 5,
+    "created": 18,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Adarsh (Frammer)",
+    "uploaded": 5,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Safdar",
+    "uploaded": 5,
+    "created": 14,
+    "published": 0
+  },
+  {
+    "channel": "L",
+    "user": "Nitesh",
+    "uploaded": 4,
+    "created": 65,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Nitesh",
+    "uploaded": 4,
+    "created": 15,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Dheeraj Pareek(QA theveritycorp.com)",
+    "uploaded": 4,
+    "created": 8,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Abhishek Sri",
+    "uploaded": 4,
+    "created": 11,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Deepika Uniyal (QA testaing.com)",
+    "uploaded": 4,
+    "created": 9,
+    "published": 0
+  },
+  {
+    "channel": "H",
+    "user": "Neha",
+    "uploaded": 4,
+    "created": 10,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Richa",
+    "uploaded": 4,
+    "created": 11,
+    "published": 0
+  },
+  {
+    "channel": "N",
+    "user": "QA-Purushottam",
+    "uploaded": 3,
+    "created": 10,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Test User",
+    "uploaded": 3,
+    "created": 10,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Alok Rai",
+    "uploaded": 3,
+    "created": 3,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "QA-Amit",
+    "uploaded": 3,
+    "created": 20,
+    "published": 3
+  },
+  {
+    "channel": "G",
+    "user": "Alok Rai",
+    "uploaded": 3,
+    "created": 3,
+    "published": 0
+  },
+  {
+    "channel": "J",
+    "user": "Prithviraj",
+    "uploaded": 3,
+    "created": 6,
+    "published": 0
+  },
+  {
+    "channel": "K",
+    "user": "Subhash (moolya)",
+    "uploaded": 3,
+    "created": 7,
+    "published": 0
+  },
+  {
+    "channel": "K",
+    "user": "Abhishek Sri",
+    "uploaded": 3,
+    "created": 6,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Deepika Uniyal (QA testaing.com)",
+    "uploaded": 3,
+    "created": 8,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Deepika Uniyal (QA testaing.com)",
+    "uploaded": 3,
+    "created": 45,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Neha",
+    "uploaded": 3,
+    "created": 20,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Safdar",
+    "uploaded": 3,
+    "created": 11,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Alok Rai",
+    "uploaded": 3,
+    "created": 12,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Trivendra",
+    "uploaded": 3,
+    "created": 13,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "QA-Aniket",
+    "uploaded": 2,
+    "created": 9,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "QA-Aniket",
+    "uploaded": 2,
+    "created": 10,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Nitesh",
+    "uploaded": 2,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "QA-Amit",
+    "uploaded": 2,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "swathi.bharadwaj@moolya.com",
+    "uploaded": 2,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "P",
+    "user": "Divyanshu Dutta Roy",
+    "uploaded": 2,
+    "created": 3,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "QA-Aniket",
+    "uploaded": 2,
+    "created": 12,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Arijit Chatterjee",
+    "uploaded": 2,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Kawaljit Singh Bedi",
+    "uploaded": 2,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Kallol Pratim",
+    "uploaded": 2,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "K",
+    "user": "Kallol Pratim",
+    "uploaded": 2,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "J",
+    "user": "Abhishek Sri",
+    "uploaded": 2,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "P",
+    "user": "Subhash (moolya)",
+    "uploaded": 2,
+    "created": 10,
+    "published": 0
+  },
+  {
+    "channel": "R",
+    "user": "Subhash (moolya)",
+    "uploaded": 2,
+    "created": 6,
+    "published": 0
+  },
+  {
+    "channel": "J",
+    "user": "Subhash (moolya)",
+    "uploaded": 2,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "L",
+    "user": "Sandeep Belaki",
+    "uploaded": 2,
+    "created": 3,
+    "published": 0
+  },
+  {
+    "channel": "J",
+    "user": "Subhesh",
+    "uploaded": 2,
+    "created": 3,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Nitesh",
+    "uploaded": 2,
+    "created": 7,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Richa",
+    "uploaded": 2,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Chandan",
+    "uploaded": 2,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "J",
+    "user": "Neha",
+    "uploaded": 2,
+    "created": 9,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "Trivendra",
+    "uploaded": 2,
+    "created": 6,
+    "published": 0
+  },
+  {
+    "channel": "O",
+    "user": "QA-Purushottam",
+    "uploaded": 1,
+    "created": 3,
+    "published": 0
+  },
+  {
+    "channel": "R",
+    "user": "vinay singh",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Auto Upload",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "parakh",
+    "uploaded": 1,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "QA-Bhargavi",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Ashween",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "parakh",
+    "uploaded": 1,
+    "created": 4,
+    "published": 0
+  },
+  {
+    "channel": "L",
+    "user": "Harish",
+    "uploaded": 1,
+    "created": 44,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "QA-Purushottam",
+    "uploaded": 1,
+    "created": 7,
+    "published": 0
+  },
+  {
+    "channel": "N",
+    "user": "QA-Aniket",
+    "uploaded": 1,
+    "created": 3,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "AB",
+    "uploaded": 1,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Kallol Pratim",
+    "uploaded": 1,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "H",
+    "user": "Sandeep Belaki",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Kallol Pratim",
+    "uploaded": 1,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "H",
+    "user": "Alok Rai",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "Test User",
+    "uploaded": 1,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "N",
+    "user": "Subhash (moolya)",
+    "uploaded": 1,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "H",
+    "user": "Shadab",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "N",
+    "user": "Sandeep Belaki",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "J",
+    "user": "Abhishek",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "K",
+    "user": "Abhishek",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "P",
+    "user": "Subhesh",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Shadab",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "L",
+    "user": "Adarsh (Frammer)",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "N",
+    "user": "Subhesh",
+    "uploaded": 1,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Richa",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "N",
+    "user": "Neha",
+    "uploaded": 1,
+    "created": 3,
+    "published": 0
+  },
+  {
+    "channel": "K",
+    "user": "Neha",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Vaibhav",
+    "uploaded": 1,
+    "created": 3,
+    "published": 0
+  },
+  {
+    "channel": "L",
+    "user": "Subhesh",
+    "uploaded": 1,
+    "created": 81,
+    "published": 0
+  },
+  {
+    "channel": "G",
+    "user": "Subhesh",
+    "uploaded": 1,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Dheerendra Kumar",
+    "uploaded": 1,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Anamika Singh",
+    "uploaded": 1,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Sumit (Frammer)",
+    "uploaded": 0,
+    "created": 5,
+    "published": 0
+  },
+  {
+    "channel": "B",
+    "user": "Test User",
+    "uploaded": 0,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "C",
+    "user": "Neha",
+    "uploaded": 0,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "I",
+    "user": "Subhesh",
+    "uploaded": 0,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "K",
+    "user": "Deepika Uniyal (QA testaing.com)",
+    "uploaded": 0,
+    "created": 2,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Arijit Chatterjee",
+    "uploaded": 0,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "A",
+    "user": "Dheerendra Kumar",
+    "uploaded": 0,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "F",
+    "user": "Prithviraj",
+    "uploaded": 0,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Subhesh",
+    "uploaded": 0,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "E",
+    "user": "Anamika Singh",
+    "uploaded": 0,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "K",
+    "user": "Alok Rai",
+    "uploaded": 0,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "J",
+    "user": "Deepika Uniyal (QA testaing.com)",
+    "uploaded": 0,
+    "created": 1,
+    "published": 0
+  },
+  {
+    "channel": "D",
+    "user": "Abhishek",
+    "uploaded": 0,
+    "created": 1,
+    "published": 0
+  }
+]

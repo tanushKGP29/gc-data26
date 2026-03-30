@@ -1,0 +1,98 @@
+{
+  "video_list": {
+    "published_flag": "Published",
+    "team_name": "Team Name",
+    "uploaded_by": "Uploaded By",
+    "platform": "Published Platform",
+    "video_type": "Type"
+  },
+  "channel_summary": {
+    "channel_name": "Channel",
+    "uploaded_count": "Uploaded Count",
+    "created_count": "Created Count",
+    "published_count": "Published Count",
+    "uploaded_duration": "Uploaded Duration (hh:mm:ss)",
+    "created_duration": "Created Duration (hh:mm:ss)",
+    "published_duration": "Published Duration (hh:mm:ss)"
+  },
+  "input_type": {
+    "input_type_name": "Input Type",
+    "uploaded_count": "Uploaded video count",
+    "created_count": "Created Count",
+    "published_count": "Published Count",
+    "uploaded_duration": "Uploaded Duration",
+    "created_duration": "Created Duration (hh:mm:ss)",
+    "published_duration": "Published Duration (hh:mm:ss)"
+  },
+  "language": {
+    "language_name": "Language",
+    "uploaded_count": "Uploaded Count",
+    "created_count": "Created Count",
+    "published_count": "Published Count",
+    "uploaded_duration": "Uploaded Duration (hh:mm:ss)",
+    "created_duration": "Created Duration (hh:mm:ss)",
+    "published_duration": "Published Duration (hh:mm:ss)"
+  },
+  "monthly": {
+    "month_label": "Month",
+    "monthly_uploaded": "Total Uploaded Duration",
+    "monthly_created": "monthly_created",
+    "monthly_published": "monthly_published",
+    "uploaded_duration": "Total Uploaded Duration",
+    "created_duration": "Total Created Duration",
+    "published_duration": "Total Published Duration"
+  },
+  "output_type": {
+    "output_type_name": "Output Type",
+    "uploaded_count": "Uploaded Count",
+    "created_count": "Created Count",
+    "published_count": "Published Count",
+    "uploaded_duration": "Uploaded Duration (hh:mm:ss)",
+    "created_duration": "Created Duration (hh:mm:ss)",
+    "published_duration": "Published Duration (hh:mm:ss)"
+  },
+  "channel_user": {
+    "channel_name": "Channel",
+    "user_name": "User",
+    "uploaded_count": "Uploaded Count",
+    "created_count": "Created Count",
+    "published_count": "Published Count",
+    "uploaded_duration": "Uploaded Duration (hh:mm:ss)",
+    "created_duration": "Created Duration (hh:mm:ss)",
+    "published_duration": "Published Duration (hh:mm:ss)"
+  },
+  "user_summary": {
+    "user_name": "User",
+    "uploaded_count": "Uploaded Count",
+    "created_count": "Created Count",
+    "published_count": "Published Count",
+    "uploaded_duration": "Uploaded Duration (hh:mm:ss)",
+    "created_duration": "Created Duration (hh:mm:ss)",
+    "published_duration": "Published Duration (hh:mm:ss)"
+  },
+  "channel_platform": {
+    "channel_name": "Channels",
+    "facebook_count": "Facebook",
+    "instagram_count": "Instagram",
+    "linkedin_count": "Linkedin",
+    "youtube_count": "Youtube",
+    "x_count": "X",
+    "shorts_count": "Shorts",
+    "reels_count": "Reels",
+    "threads_count": "Threads"
+  },
+  "_meta": {
+    "generated_at": "2026-03-22T13:09:57.643183",
+    "roles_mapped": [
+      "channel_platform",
+      "channel_summary",
+      "channel_user",
+      "input_type",
+      "language",
+      "output_type",
+      "user_summary",
+      "monthly",
+      "video_list"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "description": "What to compute for frontend dashboard. References KPIs and charts from kpi_registry.json",
+
+  "how_to_use": {
+    "add_kpi": "Add KPI id from kpi_registry.json to 'kpis' array below",
+    "add_chart": "Add chart id from kpi_registry.json to 'charts' array below",
+    "remove": "Just remove the id from the array - won't be computed",
+    "note": "kpi_registry.json is the full library, this file controls what actually runs"
+  },
+
+  "kpis": [
+    "total_uploaded",
+    "total_processed",
+    "total_published",
+    "distinct_channels",
+    "distinct_users",
+    "publish_rate",
+    "top_performing_channel",
+    "amplification_ratio",
+    "process_rate",
+    "peak_upload_month",
+    "uploaded_hours",
+    "processed_hours",
+    "published_hours",
+    "avg_upload_min",
+    "top_output_type",
+    "top_input_type",
+    "language_count",
+    "bottom_performing_channel",
+    "output_type_publish_rate",
+    "mom_upload_growth",
+    "peak_publish_month",
+    "top_platform",
+    "publish_dropoff",
+    "zero_pub_channel_count",
+    "active_channel_count",
+    "publishing_channel_count",
+    "zero_pub_month_count",
+    "mom_created_growth",
+    "channel_publish_concentration",
+    "top_user_by_created",
+    "top_user_by_published",
+    "zero_pub_user_count",
+    "top_language",
+    "english_publish_rate",
+    "unknown_team_rate",
+    "null_platform_rate",
+    "data_quality_score"
+  ],
+
+  "charts": [
+    "monthly_trends",
+    "channel_performance",
+    "funnel_data",
+    "output_type_mix",
+    "input_type_mix",
+    "input_type_performance",
+    "platform_distribution",
+    "language_breakdown",
+    "user_performance",
+    "channel_user_breakdown",
+    "language_pie",
+    "channel_platform_heatmap"
+  ]
+}

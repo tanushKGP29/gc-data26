@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Channel A",
+    "uploaded": 1470,
+    "created": 4725,
+    "published": 8,
+    "rate": 0.17,
+    "amp": 3.21
+  },
+  {
+    "name": "Channel B",
+    "uploaded": 1293,
+    "created": 4251,
+    "published": 19,
+    "rate": 0.45,
+    "amp": 3.29
+  },
+  {
+    "name": "Channel C",
+    "uploaded": 765,
+    "created": 2631,
+    "published": 14,
+    "rate": 0.53,
+    "amp": 3.44
+  },
+  {
+    "name": "Channel D",
+    "uploaded": 221,
+    "created": 701,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 3.17
+  },
+  {
+    "name": "Channel E",
+    "uploaded": 201,
+    "created": 807,
+    "published": 5,
+    "rate": 0.62,
+    "amp": 4.01
+  },
+  {
+    "name": "Channel F",
+    "uploaded": 130,
+    "created": 320,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 2.46
+  },
+  {
+    "name": "Channel G",
+    "uploaded": 106,
+    "created": 351,
+    "published": 1,
+    "rate": 0.28,
+    "amp": 3.31
+  },
+  {
+    "name": "Channel H",
+    "uploaded": 89,
+    "created": 329,
+    "published": 1,
+    "rate": 0.3,
+    "amp": 3.7
+  },
+  {
+    "name": "Channel I",
+    "uploaded": 59,
+    "created": 262,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 4.44
+  },
+  {
+    "name": "Channel J",
+    "uploaded": 37,
+    "created": 145,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 3.92
+  },
+  {
+    "name": "Channel K",
+    "uploaded": 29,
+    "created": 83,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 2.86
+  },
+  {
+    "name": "Channel L",
+    "uploaded": 17,
+    "created": 216,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 12.71
+  },
+  {
+    "name": "Channel M",
+    "uploaded": 8,
+    "created": 14,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 1.75
+  },
+  {
+    "name": "Channel N",
+    "uploaded": 8,
+    "created": 21,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 2.62
+  },
+  {
+    "name": "Channel O",
+    "uploaded": 7,
+    "created": 18,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 2.57
+  },
+  {
+    "name": "Channel P",
+    "uploaded": 5,
+    "created": 14,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 2.8
+  },
+  {
+    "name": "Channel Q",
+    "uploaded": 5,
+    "created": 19,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 3.8
+  },
+  {
+    "name": "Channel R",
+    "uploaded": 3,
+    "created": 7,
+    "published": 0,
+    "rate": 0.0,
+    "amp": 2.33
+  }
+]

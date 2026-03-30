@@ -1,0 +1,14 @@
+[
+  {
+    "stage": "Uploaded",
+    "value": 4453
+  },
+  {
+    "stage": "Processed",
+    "value": 14914
+  },
+  {
+    "stage": "Published",
+    "value": 48
+  }
+]

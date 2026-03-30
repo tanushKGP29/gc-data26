@@ -1,0 +1,98 @@
+[
+  {
+    "type": "interview",
+    "uploaded": 1299,
+    "created": 4972,
+    "published": 35,
+    "publishRate": 2.69,
+    "amp": 3.83
+  },
+  {
+    "type": "news bulletin",
+    "uploaded": 1026,
+    "created": 3238,
+    "published": 39,
+    "publishRate": 3.8,
+    "amp": 3.16
+  },
+  {
+    "type": "special reports",
+    "uploaded": 755,
+    "created": 2129,
+    "published": 15,
+    "publishRate": 1.99,
+    "amp": 2.82
+  },
+  {
+    "type": "speech",
+    "uploaded": 742,
+    "created": 2390,
+    "published": 12,
+    "publishRate": 1.62,
+    "amp": 3.22
+  },
+  {
+    "type": "debate",
+    "uploaded": 290,
+    "created": 1074,
+    "published": 5,
+    "publishRate": 1.72,
+    "amp": 3.7
+  },
+  {
+    "type": "press conference",
+    "uploaded": 280,
+    "created": 973,
+    "published": 2,
+    "publishRate": 0.71,
+    "amp": 3.48
+  },
+  {
+    "type": "discussion-show",
+    "uploaded": 19,
+    "created": 79,
+    "published": 3,
+    "publishRate": 15.79,
+    "amp": 4.16
+  },
+  {
+    "type": "sports show",
+    "uploaded": 17,
+    "created": 19,
+    "published": 0,
+    "publishRate": 0.0,
+    "amp": 1.12
+  },
+  {
+    "type": "Unknown",
+    "uploaded": 12,
+    "created": 12,
+    "published": 0,
+    "publishRate": 0.0,
+    "amp": 1.0
+  },
+  {
+    "type": "podcast",
+    "uploaded": 8,
+    "created": 21,
+    "published": 0,
+    "publishRate": 0.0,
+    "amp": 2.62
+  },
+  {
+    "type": "drama",
+    "uploaded": 4,
+    "created": 4,
+    "published": 0,
+    "publishRate": 0.0,
+    "amp": 1.0
+  },
+  {
+    "type": "in-brief",
+    "uploaded": 1,
+    "created": 3,
+    "published": 0,
+    "publishRate": 0.0,
+    "amp": 3.0
+  }
+]

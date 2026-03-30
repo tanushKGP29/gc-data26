@@ -1,0 +1,200 @@
+{
+  "79bbabb0a7c5bf2ddb08ae868756261353f6a8d09540b7789b417891a37da528": {
+    "role": null,
+    "method": "unclassified",
+    "filename": "channel-wise-publishing duration.csv",
+    "classified_at": "2026-03-21T18:19:15.542659"
+  },
+  "d907a2a9b8e5800769a360e2691a63e8b42ca0d2cfcab48ad0aa7bb66fe47dcb": {
+    "role": null,
+    "method": "unclassified",
+    "filename": "month-wise-duration.csv",
+    "classified_at": "2026-03-21T18:19:15.542659"
+  },
+  "db75099b4ca42d043cc0f74b676dfe545fd55f29b7d05e4743b116b3b79c9dee": {
+    "role": null,
+    "method": "unclassified",
+    "filename": "flagged_channels.csv",
+    "classified_at": "2026-03-21T18:54:16.197990"
+  },
+  "561e09ace2d981bdbcc163d7a764dbccf0c21e1ddad49b439fa24eb6caa891e5": {
+    "role": null,
+    "method": "unclassified",
+    "filename": "month-wise-duration.csv",
+    "classified_at": "2026-03-21T18:54:16.213589"
+  },
+  "20db68f3b4b15a50b41ff689c3189bd60a1631144e1532ec3fd45dda71ebd87e": {
+    "role": "channel_platform",
+    "method": "llm",
+    "filename": "channel-wise-publishing duration.csv",
+    "classified_at": "2026-03-21T19:07:46.081001"
+  },
+  "8114bb4d3e016eda12d44e2ec229d5578e065f70d8283263d06b3e3f2d195aab": {
+    "role": "monthly",
+    "method": "llm",
+    "filename": "month-wise-duration.csv",
+    "classified_at": "2026-03-21T19:07:47.030820"
+  },
+  "5a27b822f874b068b67bd4e9e03aab3ffe736a18e9a349591b580454015a2e29": {
+    "role": "channel_platform",
+    "method": "pattern",
+    "filename": "channel-wise-publishing.csv",
+    "classified_at": "2026-03-21T20:38:59.895062"
+  },
+  "f2bedb31e4f9fb90d758ffa4743ad25f23e111b9a18282a4e1f3ed00c7017564": {
+    "role": "channel_summary",
+    "method": "pattern",
+    "filename": "CLIENT 1 combined_data(2025-3-1-2026-2-28).csv",
+    "classified_at": "2026-03-21T20:38:59.895062"
+  },
+  "e48e530ab3cbaf1856eab51c71cf9f30cccb3a3f41058c10b60f61e0c8fd8702": {
+    "role": "channel_user",
+    "method": "pattern",
+    "filename": "combined_data(2025-3-1-2026-2-28) by channel and user.csv",
+    "classified_at": "2026-03-21T20:38:59.915981"
+  },
+  "eb9b02eda89c6eddcc44ccfdbcf542de4185347588867debcf8788b0e033c9e5": {
+    "role": "input_type",
+    "method": "pattern",
+    "filename": "combined_data(2025-3-1-2026-2-28) by input type.csv",
+    "classified_at": "2026-03-21T20:38:59.915981"
+  },
+  "6acaa4fd5a88f6a7191dd029289e5a94864c52d94a4dc04f164aacd46b2eb530": {
+    "role": "language",
+    "method": "pattern",
+    "filename": "combined_data(2025-3-1-2026-2-28) by language.csv",
+    "classified_at": "2026-03-21T20:38:59.915981"
+  },
+  "8bb5198faf421462f3232449b9c3a562bb29491cd7197b5926b310ce03e36f34": {
+    "role": "output_type",
+    "method": "pattern",
+    "filename": "combined_data(2025-3-1-2026-2-28) by output type.csv",
+    "classified_at": "2026-03-21T20:38:59.915981"
+  },
+  "319a701cc66eac87714686dbc0ab03c14d6534919597d7314bc75204bb24902f": {
+    "role": "user_summary",
+    "method": "pattern",
+    "filename": "combined_data(2025-3-1-2026-2-28) by user.csv",
+    "classified_at": "2026-03-21T20:38:59.922868"
+  },
+  "6f037a42ad93003094d567822b99e5a9af90be5cddf993dd3c82eb7324d018e5": {
+    "role": "monthly",
+    "method": "pattern",
+    "filename": "monthly-chart.csv",
+    "classified_at": "2026-03-21T20:38:59.922868"
+  },
+  "a66c8b5cfd63763fcaef6408844f66c25103309bd81fa5a13516170fedc21c41": {
+    "role": "video_list",
+    "method": "pattern",
+    "filename": "video_list_data_obfuscated.csv",
+    "classified_at": "2026-03-21T20:38:59.952725"
+  },
+  "ef3f6856b1d7ef769123d8478040dd5b8d96a4acfecfa43e8cac07cad6f56b49": {
+    "role": "channel_platform",
+    "method": "pattern",
+    "filename": "channel-wise-publishing.csv",
+    "classified_at": "2026-03-21T20:48:37.786538"
+  },
+  "496b02db820508461ba58ba911274123e1b4796addeef25ccb3bef0305e1c735": {
+    "role": "channel_summary",
+    "method": "pattern",
+    "filename": "CLIENT 1 combined_data(2025-3-1-2026-2-28).csv",
+    "classified_at": "2026-03-21T20:48:37.789056"
+  },
+  "e36ff1bb91b206649ef7e8d29641b89de5e74dff8e07e302384687ba2fc9cc59": {
+    "role": "channel_user",
+    "method": "pattern",
+    "filename": "combined_data(2025-3-1-2026-2-28) by channel and user.csv",
+    "classified_at": "2026-03-21T20:48:37.805881"
+  },
+  "443eb5926748891278d3cd5ad915be5fd487e8dd914181c8a1d4d0c32c38ce26": {
+    "role": "input_type",
+    "method": "pattern",
+    "filename": "combined_data(2025-3-1-2026-2-28) by input type.csv",
+    "classified_at": "2026-03-21T20:48:37.805881"
+  },
+  "ebbaf35d4c55648d8106b3526f04a7d0c7e7369186f5df71185238fa48a5c845": {
+    "role": "language",
+    "method": "pattern",
+    "filename": "combined_data(2025-3-1-2026-2-28) by language.csv",
+    "classified_at": "2026-03-21T20:48:37.809874"
+  },
+  "876cbd3642d0603c11a7ad9b6d833123737fec19f9e0b74f6c6e3a1fb25fce1b": {
+    "role": "output_type",
+    "method": "pattern",
+    "filename": "combined_data(2025-3-1-2026-2-28) by output type.csv",
+    "classified_at": "2026-03-21T20:48:37.823809"
+  },
+  "fda2df18e83d6dd9d45e21a69305f9d802e743b846f8ce2714adc6bfe42f3df3": {
+    "role": "user_summary",
+    "method": "pattern",
+    "filename": "combined_data(2025-3-1-2026-2-28) by user.csv",
+    "classified_at": "2026-03-21T20:48:37.823809"
+  },
+  "a24ee86e12dfe2dac17523c9c36546e78adbbc82f1e02cc9d019f7ed60071647": {
+    "role": "monthly",
+    "method": "pattern",
+    "filename": "monthly-chart.csv",
+    "classified_at": "2026-03-21T20:48:37.844600"
+  },
+  "67e718a7c37793f9b5f27fc13f6831f5b70314bff4cacef82aca2665eae29b8d": {
+    "role": "video_list",
+    "method": "pattern",
+    "filename": "video_list_data_obfuscated.csv",
+    "classified_at": "2026-03-21T20:48:37.872286"
+  },
+  "2b95c3786729d6af1ed49bd67689a485ba37bb2f83922be2c97e8c27e7506819": {
+    "role": "channel_summary",
+    "method": "llm",
+    "filename": "Q1_2026_team_performance.csv",
+    "classified_at": "2026-03-21T21:34:30.630875"
+  },
+  "f0fc7984aa0e54a62c964c7186df221d176049e4bb32e9af0dd7fa6681aa952d": {
+    "role": "channel_platform",
+    "method": "pattern",
+    "filename": "test_channel_platform.csv",
+    "classified_at": "2026-03-21T21:34:30.662229"
+  },
+  "ff53ccedccaba234833509970959ee2ae63f0267a0ace0278f8b850bc7f7d912": {
+    "role": "channel_summary",
+    "method": "pattern",
+    "filename": "test_channel_summary.csv",
+    "classified_at": "2026-03-21T21:34:30.666099"
+  },
+  "c9a2626de4adcb08dddaea2384c8f6dfecebc6c3590cf708edba99fa39464d8e": {
+    "role": "input_type",
+    "method": "pattern",
+    "filename": "test_input_type.csv",
+    "classified_at": "2026-03-21T21:34:30.684252"
+  },
+  "01708fa1bc0960e5cdb7934aef67c6583271e6f39ad7fd12caec16801b928d89": {
+    "role": "language",
+    "method": "pattern",
+    "filename": "test_language.csv",
+    "classified_at": "2026-03-21T21:34:30.697369"
+  },
+  "77734f9b782e4f6675232e7970bb2a678bf6e17eed61ab264f486bd254f004a3": {
+    "role": "monthly",
+    "method": "pattern",
+    "filename": "test_monthly.csv",
+    "classified_at": "2026-03-21T21:34:30.705140"
+  },
+  "9c7a6c267e0e7914b105f97d232ede75c29637c00eb6e08bd7bc4c24ace5db0f": {
+    "role": "output_type",
+    "method": "pattern",
+    "filename": "test_output_type.csv",
+    "classified_at": "2026-03-21T21:34:30.709169"
+  },
+  "4c4d2a8f1ea13c8411dfe05e62ed006d2f82d958a6dde7703a72fe44e506d387": {
+    "role": "user_summary",
+    "method": "pattern",
+    "filename": "test_user_summary.csv",
+    "classified_at": "2026-03-21T21:34:30.721226"
+  },
+  "73eb65d68f39ba2e082d92fa2388617dee697d565fa3da5bd61dd788009de54a": {
+    "role": "channel_platform",
+    "method": "llm",
+    "filename": "channel-wise-publishing duration.csv",
+    "classified_at": "2026-03-21T21:27:22.182392"
+  }
+}

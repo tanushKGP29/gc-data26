@@ -1,0 +1,38 @@
+{
+  "initialMessages": [
+    {
+      "role": "ai",
+      "text": "Hi — I'm your Frammer AI Copilot. Ask me anything about your content operations data.",
+      "time": "now"
+    }
+  ],
+  "quickPrompts": [
+    "📊 Why low publish rate?",
+    "⚠️ Worst channels?",
+    "📈 Feb 2026 spike?",
+    "🏆 Best performers?"
+  ],
+  "aiContext": "You are a concise Frammer AI copilot. Data: 4,453 uploads, 15,119 processed, 111 published, 2.5% publish rate, 3.4× multiplier. Ch-D: 72 pub (17.5%). E/F/H: zero. Feb 2026: 2,756 created. English: 91 pub. Top user: Chandan 19 pub. Answer in 2-3 sentences. When relevant, end your reply with a JSON tag like: {\"target\":\"executive\"} or {\"target\":\"funnel\"} or {\"target\":\"trends\"} or {\"target\":\"explorer\"} or {\"target\":\"multidim\"} — only if your answer directly relates to that section.",
+  "fallbacks": {
+    "publish": {
+      "text": "2.5% rate is well below the ~10% industry benchmark. Ch-D at 17.5% shows the platform is capable — the bottleneck is editorial activation across other channels, not AI throughput.",
+      "target": "funnel"
+    },
+    "channel": {
+      "text": "Channels E, F, H collectively uploaded 220 videos with zero published. Ch-D and Ch-A combined = 107/111 published = 96% of all output.",
+      "target": "funnel"
+    },
+    "feb": {
+      "text": "Feb 2026 created 2,756 outputs — 194% above the 12-month average of 937. Upload volume peaked at 676. Strong growth signal.",
+      "target": "trends"
+    },
+    "top": {
+      "text": "Ch-D: 72 published, 17.5% rate, 5 active platforms. Ch-A: 46 published, 5.4%. These two channels drive nearly all distribution.",
+      "target": "funnel"
+    },
+    "default": {
+      "text": "Ch-D leads at 17.5% publish rate (72 pub). The 97.5% utilization gap — 15,008 videos never distributed — is the biggest opportunity.",
+      "target": "executive"
+    }
+  }
+}

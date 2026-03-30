@@ -1,0 +1,11 @@
+{
+    "channel_platform": "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\merged\\channel_platform.csv",
+    "channel_summary": "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\merged\\channel_summary.csv",
+    "channel_user": "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\merged\\channel_user.csv",
+    "input_type": "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\merged\\input_type.csv",
+    "language": "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\merged\\language.csv",
+    "output_type": "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\merged\\output_type.csv",
+    "user_summary": "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\merged\\user_summary.csv",
+    "monthly": "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\merged\\monthly.csv",
+    "video_list": "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\merged\\video_list.csv"
+}

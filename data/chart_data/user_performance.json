@@ -1,0 +1,317 @@
+[
+  {
+    "user": "Chandan",
+    "uploaded": 489,
+    "created": 2152,
+    "published": 19,
+    "rate": 0.88
+  },
+  {
+    "user": "QA-Purushottam",
+    "uploaded": 309,
+    "created": 1227,
+    "published": 13,
+    "rate": 1.06
+  },
+  {
+    "user": "vikas.s@moolya.com",
+    "uploaded": 265,
+    "created": 1094,
+    "published": 4,
+    "rate": 0.37
+  },
+  {
+    "user": "Sandeep Belaki",
+    "uploaded": 253,
+    "created": 1039,
+    "published": 7,
+    "rate": 0.67
+  },
+  {
+    "user": "Nitesh",
+    "uploaded": 224,
+    "created": 959,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Abhishek",
+    "uploaded": 201,
+    "created": 408,
+    "published": 8,
+    "rate": 1.96
+  },
+  {
+    "user": "Auto Upload",
+    "uploaded": 185,
+    "created": 220,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Subhesh",
+    "uploaded": 184,
+    "created": 489,
+    "published": 7,
+    "rate": 1.43
+  },
+  {
+    "user": "Trivendra",
+    "uploaded": 179,
+    "created": 825,
+    "published": 3,
+    "rate": 0.36
+  },
+  {
+    "user": "Dheeraj Pareek(QA theveritycorp.com)",
+    "uploaded": 166,
+    "created": 482,
+    "published": 2,
+    "rate": 0.41
+  },
+  {
+    "user": "vinay singh",
+    "uploaded": 161,
+    "created": 530,
+    "published": 3,
+    "rate": 0.57
+  },
+  {
+    "user": "Neha",
+    "uploaded": 158,
+    "created": 510,
+    "published": 10,
+    "rate": 1.96
+  },
+  {
+    "user": "Subhash (moolya)",
+    "uploaded": 154,
+    "created": 457,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Adarsh (Frammer)",
+    "uploaded": 141,
+    "created": 262,
+    "published": 5,
+    "rate": 1.91
+  },
+  {
+    "user": "Anamika Singh",
+    "uploaded": 121,
+    "created": 567,
+    "published": 2,
+    "rate": 0.35
+  },
+  {
+    "user": "AB",
+    "uploaded": 101,
+    "created": 368,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Divyanshu Dutta Roy",
+    "uploaded": 95,
+    "created": 380,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Ashween",
+    "uploaded": 95,
+    "created": 99,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Vaibhav",
+    "uploaded": 94,
+    "created": 268,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Alok Rai",
+    "uploaded": 86,
+    "created": 143,
+    "published": 4,
+    "rate": 2.8
+  },
+  {
+    "user": "sukhleen",
+    "uploaded": 84,
+    "created": 221,
+    "published": 1,
+    "rate": 0.45
+  },
+  {
+    "user": "Shadab",
+    "uploaded": 83,
+    "created": 219,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Abhishek Sri",
+    "uploaded": 81,
+    "created": 372,
+    "published": 1,
+    "rate": 0.27
+  },
+  {
+    "user": "QA-Bhargavi",
+    "uploaded": 75,
+    "created": 271,
+    "published": 6,
+    "rate": 2.21
+  },
+  {
+    "user": "Deepika Uniyal (QA testaing.com)",
+    "uploaded": 72,
+    "created": 416,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Prithviraj",
+    "uploaded": 66,
+    "created": 97,
+    "published": 6,
+    "rate": 6.19
+  },
+  {
+    "user": "Rakesh (devops@frammer.com)",
+    "uploaded": 45,
+    "created": 74,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Harish",
+    "uploaded": 41,
+    "created": 166,
+    "published": 7,
+    "rate": 4.22
+  },
+  {
+    "user": "QA-Ankith",
+    "uploaded": 40,
+    "created": 106,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Ravi Pratap Rai",
+    "uploaded": 39,
+    "created": 52,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "QA-Aniket",
+    "uploaded": 37,
+    "created": 149,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Kallol Pratim",
+    "uploaded": 34,
+    "created": 91,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Ritwik",
+    "uploaded": 24,
+    "created": 25,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Richa",
+    "uploaded": 18,
+    "created": 36,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "deleteme@frammer.com",
+    "uploaded": 16,
+    "created": 38,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Kawaljit Singh Bedi",
+    "uploaded": 8,
+    "created": 9,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Safdar",
+    "uploaded": 8,
+    "created": 25,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Arun J",
+    "uploaded": 5,
+    "created": 13,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "QA-Amit",
+    "uploaded": 5,
+    "created": 22,
+    "published": 3,
+    "rate": 13.64
+  },
+  {
+    "user": "Test User",
+    "uploaded": 4,
+    "created": 14,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Arijit Chatterjee",
+    "uploaded": 2,
+    "created": 3,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "swathi.bharadwaj@moolya.com",
+    "uploaded": 2,
+    "created": 2,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "parakh",
+    "uploaded": 2,
+    "created": 6,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Dheerendra Kumar",
+    "uploaded": 1,
+    "created": 3,
+    "published": 0,
+    "rate": 0.0
+  },
+  {
+    "user": "Sumit (Frammer)",
+    "uploaded": 0,
+    "created": 5,
+    "published": 0,
+    "rate": 0.0
+  }
+]

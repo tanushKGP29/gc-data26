@@ -1,0 +1,456 @@
+{
+  "meta": {
+    "tag": "EXECUTIVE COMMAND CENTRE · MAR 2025 → FEB 2026",
+    "title": "Executive Overview",
+    "sub": "Platform performance at a glance — growth, red flags, and top-line KPIs. Audience: Founders · Leadership · Client Success."
+  },
+  "monthlyData": [
+    {
+      "month": "Mar'25",
+      "uploaded": 639,
+      "created": 2555,
+      "published": 0,
+      "uploadedDur": 122.06,
+      "createdDur": 176.28,
+      "publishedDur": 0
+    },
+    {
+      "month": "Apr'25",
+      "uploaded": 533,
+      "created": 1656,
+      "published": 44,
+      "uploadedDur": 65.47,
+      "createdDur": 98.02,
+      "publishedDur": 1.09
+    },
+    {
+      "month": "May'25",
+      "uploaded": 217,
+      "created": 642,
+      "published": 4,
+      "uploadedDur": 46.95,
+      "createdDur": 64.45,
+      "publishedDur": 0.06
+    },
+    {
+      "month": "Jun'25",
+      "uploaded": 239,
+      "created": 907,
+      "published": 3,
+      "uploadedDur": 47.18,
+      "createdDur": 84.16,
+      "publishedDur": 0.2
+    },
+    {
+      "month": "Jul'25",
+      "uploaded": 284,
+      "created": 892,
+      "published": 0,
+      "uploadedDur": 33.62,
+      "createdDur": 66.84,
+      "publishedDur": 0
+    },
+    {
+      "month": "Aug'25",
+      "uploaded": 256,
+      "created": 699,
+      "published": 7,
+      "uploadedDur": 39.94,
+      "createdDur": 64.52,
+      "publishedDur": 0.11
+    },
+    {
+      "month": "Sep'25",
+      "uploaded": 227,
+      "created": 684,
+      "published": 0,
+      "uploadedDur": 34.35,
+      "createdDur": 58.63,
+      "publishedDur": 0
+    },
+    {
+      "month": "Oct'25",
+      "uploaded": 343,
+      "created": 1046,
+      "published": 10,
+      "uploadedDur": 47.86,
+      "createdDur": 94.29,
+      "publishedDur": 0.25
+    },
+    {
+      "month": "Nov'25",
+      "uploaded": 353,
+      "created": 943,
+      "published": 2,
+      "uploadedDur": 48.12,
+      "createdDur": 83.38,
+      "publishedDur": 0.04
+    },
+    {
+      "month": "Dec'25",
+      "uploaded": 194,
+      "created": 644,
+      "published": 7,
+      "uploadedDur": 38.26,
+      "createdDur": 71.7,
+      "publishedDur": 0.24
+    },
+    {
+      "month": "Jan'26",
+      "uploaded": 492,
+      "created": 1492,
+      "published": 20,
+      "uploadedDur": 121.99,
+      "createdDur": 191.46,
+      "publishedDur": 1.45
+    },
+    {
+      "month": "Feb'26",
+      "uploaded": 676,
+      "created": 2756,
+      "published": 14,
+      "uploadedDur": 161.87,
+      "createdDur": 301.51,
+      "publishedDur": 0.94
+    }
+  ],
+  "inputTypes": [
+    {
+      "type": "interview",
+      "uploaded": 1299,
+      "created": 4972,
+      "published": 35,
+      "uploadedH": 243.89,
+      "createdH": 462.72
+    },
+    {
+      "type": "news bulletin",
+      "uploaded": 1026,
+      "created": 3238,
+      "published": 39,
+      "uploadedH": 171.76,
+      "createdH": 275.87
+    },
+    {
+      "type": "special reports",
+      "uploaded": 755,
+      "created": 2129,
+      "published": 15,
+      "uploadedH": 133.01,
+      "createdH": 197.85
+    },
+    {
+      "type": "speech",
+      "uploaded": 742,
+      "created": 2390,
+      "published": 12,
+      "uploadedH": 132.69,
+      "createdH": 217.79
+    },
+    {
+      "type": "debate",
+      "uploaded": 290,
+      "created": 1074,
+      "published": 5,
+      "uploadedH": 63.69,
+      "createdH": 98.29
+    },
+    {
+      "type": "press conference",
+      "uploaded": 280,
+      "created": 973,
+      "published": 2,
+      "uploadedH": 51.11,
+      "createdH": 85.44
+    },
+    {
+      "type": "discussion-show",
+      "uploaded": 19,
+      "created": 79,
+      "published": 3,
+      "uploadedH": 4.61,
+      "createdH": 10.06
+    },
+    {
+      "type": "sports show",
+      "uploaded": 17,
+      "created": 19,
+      "published": 0,
+      "uploadedH": 2.91,
+      "createdH": 2.92
+    },
+    {
+      "type": "Unknown",
+      "uploaded": 12,
+      "created": 12,
+      "published": 0,
+      "uploadedH": 2.17,
+      "createdH": 2.17
+    },
+    {
+      "type": "podcast",
+      "uploaded": 8,
+      "created": 21,
+      "published": 0,
+      "uploadedH": 0.46,
+      "createdH": 0.68
+    }
+  ],
+  "channels": [
+    {
+      "ch": "A",
+      "uploaded": 847,
+      "created": 3112,
+      "published": 46,
+      "uploadedH": 148.2,
+      "platforms": {
+        "Facebook": 1,
+        "Instagram": 7,
+        "Reels": 5,
+        "Shorts": 1,
+        "Youtube": 5
+      },
+      "noPublish": false
+    },
+    {
+      "ch": "B",
+      "uploaded": 620,
+      "created": 1982,
+      "published": 7,
+      "uploadedH": 117.8,
+      "platforms": {},
+      "noPublish": false
+    },
+    {
+      "ch": "C",
+      "uploaded": 321,
+      "created": 1080,
+      "published": 1,
+      "uploadedH": 68.2,
+      "platforms": {},
+      "noPublish": false
+    },
+    {
+      "ch": "D",
+      "uploaded": 412,
+      "created": 1430,
+      "published": 72,
+      "uploadedH": 78.5,
+      "platforms": {
+        "Facebook": 6,
+        "Instagram": 3,
+        "Reels": 15,
+        "Shorts": 18,
+        "Youtube": 29
+      },
+      "noPublish": false
+    },
+    {
+      "ch": "E",
+      "uploaded": 89,
+      "created": 240,
+      "published": 0,
+      "uploadedH": 19.3,
+      "platforms": {},
+      "noPublish": true
+    },
+    {
+      "ch": "F",
+      "uploaded": 76,
+      "created": 220,
+      "published": 0,
+      "uploadedH": 14.1,
+      "platforms": {},
+      "noPublish": true
+    },
+    {
+      "ch": "G",
+      "uploaded": 168,
+      "created": 492,
+      "published": 14,
+      "uploadedH": 38.6,
+      "platforms": {
+        "Facebook": 1,
+        "Reels": 11,
+        "Shorts": 2
+      },
+      "noPublish": false
+    },
+    {
+      "ch": "H",
+      "uploaded": 55,
+      "created": 162,
+      "published": 0,
+      "uploadedH": 11,
+      "platforms": {},
+      "noPublish": true
+    },
+    {
+      "ch": "I",
+      "uploaded": 97,
+      "created": 285,
+      "published": 5,
+      "uploadedH": 22.4,
+      "platforms": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "Reels": 1,
+        "Shorts": 2
+      },
+      "noPublish": false
+    }
+  ],
+  "totals": {
+    "totalCreated": 15119,
+    "totalUploaded": 4453,
+    "totalPublished": 111,
+    "publishRate": "2.5",
+    "multiplier": "3.4",
+    "activeChannels": 18
+  },
+  "toasts": [
+    {
+      "text": "97.5% of processed content never gets published — 15,008 videos created but not distributed.",
+      "tone": "crit",
+      "title": "Critical Finding",
+      "delay": 1800
+    },
+    {
+      "text": "Feb 2026 peak: 2,756 outputs — 194% above monthly average.",
+      "tone": "info",
+      "title": "Momentum Signal",
+      "delay": 4200
+    }
+  ],
+  "hero": {
+    "eyebrow": "AI PROCESSED — ALL TIME"
+  },
+  "statCards": [
+    {
+      "label": "UPLOADED",
+      "sub": "807 hrs source footage",
+      "color": "var(--ink2)",
+      "accent": "card-ink",
+      "valueColor": "var(--ink)"
+    },
+    {
+      "label": "PUBLISHED",
+      "sub": "of 15,119 AI outputs distributed",
+      "color": "var(--amber)",
+      "accent": "card-amber",
+      "valueColor": "var(--amber-lt)"
+    },
+    {
+      "label": "PUB RATE",
+      "sub": "97.5% utilization gap",
+      "color": "var(--red)",
+      "accent": "card-red",
+      "valueColor": "var(--red-lt)",
+      "benchmarkWarning": "⚠ below 10% benchmark"
+    }
+  ],
+  "pipelineRows": [
+    {
+      "l": "AI Multiplier",
+      "key": "multiplier",
+      "c": "var(--gold-lt)"
+    },
+    {
+      "l": "Zero-pub months",
+      "key": "zeroPublishMonths",
+      "c": "var(--red-lt)"
+    },
+    {
+      "l": "Active channels",
+      "key": "activeChannels",
+      "c": "var(--ink)"
+    }
+  ],
+  "contextStrip": [
+    {
+      "label": "UPLOAD PERIOD",
+      "v": "Mar 2025 – Feb 2026",
+      "sub": "12 months active"
+    },
+    {
+      "label": "AI MULTIPLIER",
+      "v": "3.4×",
+      "sub": "inputs → AI outputs"
+    },
+    {
+      "label": "TOP CHANNEL",
+      "v": "Ch-D",
+      "sub": "72 pub · 17.5% rate"
+    },
+    {
+      "label": "PEAK MONTH",
+      "v": "Feb '26",
+      "sub": "2,756 outputs · +194%"
+    },
+    {
+      "label": "PUBLISH GAP",
+      "v": "97.5%",
+      "sub": "15,008 never distributed"
+    }
+  ],
+  "strategicSignals": [
+    {
+      "type": "crit",
+      "tag": "⚠ CRITICAL",
+      "num": "97.5%",
+      "text": "of processed content never published.",
+      "stat": "Created: 15,119 · Published: 111 · Gap: 15,008",
+      "k": "c1",
+      "expand": "15,008 videos created and never distributed — representing an untapped asset pipeline."
+    },
+    {
+      "type": "warn",
+      "tag": "⚡ PATTERN",
+      "num": "3",
+      "text": "months had zero published output.",
+      "stat": "Mar, Jul, Sep 2025 — operational bottleneck, not volume issue",
+      "k": "c2"
+    },
+    {
+      "type": "ok",
+      "tag": "↑ MOMENTUM",
+      "num": "2,756",
+      "text": "outputs in Feb 2026 — all-time peak.",
+      "stat": "Feb avg vs 937 monthly avg = +194% · growth confirmed",
+      "k": "c3"
+    },
+    {
+      "type": "info",
+      "tag": "◈ BENCHMARK",
+      "num": "17.5%",
+      "text": "Channel D publish rate — 7× platform avg.",
+      "stat": "Ch-D: 72 published · 412 uploaded · 5 active platforms",
+      "k": "c4"
+    }
+  ],
+  "monthlyChart": {
+    "badge": "Feb ↑ +194%",
+    "legend": [
+      [
+        "Uploaded",
+        "var(--gold)"
+      ],
+      [
+        "Published",
+        "var(--green)"
+      ]
+    ]
+  },
+  "statusDonut": [
+    {
+      "label": "Unpublished",
+      "value": 15008,
+      "color": "#6a1818"
+    },
+    {
+      "label": "Published",
+      "value": 111,
+      "color": "#30b060"
+    }
+  ]
+}

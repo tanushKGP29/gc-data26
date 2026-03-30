@@ -1,0 +1,3730 @@
+{
+  "generated_at": "2026-03-22T13:10:13.165800",
+  "from_cache": false,
+  "change_type": "none",
+  "metrics": [
+    {
+      "id": "total_uploaded",
+      "name": "Total Uploaded",
+      "value": 4453,
+      "formatted": "4,453",
+      "category": "volume",
+      "description": "Total videos uploaded by users",
+      "unit": "videos",
+      "function": "compute_total_uploaded",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "total_processed",
+      "name": "Total Processed",
+      "value": 14914,
+      "formatted": "14,914",
+      "category": "volume",
+      "description": "Total clips created by AI",
+      "unit": "outputs",
+      "function": "compute_total_processed",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "total_published",
+      "name": "Total Published",
+      "value": 48,
+      "formatted": "48",
+      "category": "volume",
+      "description": "Total clips published to platforms",
+      "unit": "videos",
+      "function": "compute_total_published",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "distinct_channels",
+      "name": "Distinct Channels",
+      "value": 18,
+      "formatted": "18",
+      "category": "volume",
+      "description": "Number of unique channels",
+      "unit": "channels",
+      "function": "compute_distinct_channels",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "distinct_users",
+      "name": "Distinct Users",
+      "value": 45,
+      "formatted": "45",
+      "category": "volume",
+      "description": "Number of unique users",
+      "unit": "users",
+      "function": "compute_distinct_users",
+      "dataset_sources": [
+        "user_summary"
+      ]
+    },
+    {
+      "id": "publish_rate",
+      "name": "Publish Rate",
+      "value": 0.32,
+      "formatted": "0.32%",
+      "category": "conversion",
+      "description": "Percentage of processed clips published",
+      "unit": "percent",
+      "function": "compute_publish_rate",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "top_performing_channel",
+      "name": "Top Channel",
+      "value": "E (0.62%)",
+      "formatted": "E (0.62%)",
+      "category": "conversion",
+      "description": "Channel with highest publish rate",
+      "unit": "",
+      "function": "compute_top_performing_channel",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "amplification_ratio",
+      "name": "Amplification Ratio",
+      "value": 3.35,
+      "formatted": "3.35x",
+      "category": "efficiency",
+      "description": "Output clips per uploaded video",
+      "unit": "ratio",
+      "function": "compute_amplification_ratio",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "process_rate",
+      "name": "Process Rate",
+      "value": 334.92,
+      "formatted": "334.92%",
+      "category": "efficiency",
+      "description": "Processing rate as percentage",
+      "unit": "percent",
+      "function": "compute_process_rate",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "peak_upload_month",
+      "name": "Peak Upload Month",
+      "value": "",
+      "formatted": "",
+      "category": "efficiency",
+      "description": "Month with highest upload volume",
+      "unit": "",
+      "function": "compute_peak_upload_month",
+      "dataset_sources": [
+        "monthly"
+      ]
+    },
+    {
+      "id": "uploaded_hours",
+      "name": "Uploaded Hours",
+      "value": 807.67,
+      "formatted": "807.67h",
+      "category": "duration",
+      "description": "Total duration of uploaded videos in hours",
+      "unit": "hours",
+      "function": "compute_uploaded_hours",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "processed_hours",
+      "name": "Processed Hours",
+      "value": 1355.17,
+      "formatted": "1355.17h",
+      "category": "duration",
+      "description": "Total duration of processed clips in hours",
+      "unit": "hours",
+      "function": "compute_processed_hours",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "published_hours",
+      "name": "Published Hours",
+      "value": 4.38,
+      "formatted": "4.38h",
+      "category": "duration",
+      "description": "Total duration of published clips in hours",
+      "unit": "hours",
+      "function": "compute_published_hours",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "avg_upload_min",
+      "name": "Avg Upload Duration",
+      "value": 10.88,
+      "formatted": "10.88 min",
+      "category": "duration",
+      "description": "Average duration per uploaded video in minutes",
+      "unit": "minutes",
+      "function": "compute_avg_upload_duration",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "top_output_type",
+      "name": "Top Output Type",
+      "value": "Key moments",
+      "formatted": "Key moments",
+      "category": "content_mix",
+      "description": "Output type with highest created count",
+      "unit": "",
+      "function": "compute_top_output_type",
+      "dataset_sources": [
+        "output_type"
+      ]
+    },
+    {
+      "id": "top_input_type",
+      "name": "Top Input Type",
+      "value": "interview",
+      "formatted": "interview",
+      "category": "content_mix",
+      "description": "Input type with highest uploaded count",
+      "unit": "",
+      "function": "compute_top_input_type",
+      "dataset_sources": [
+        "input_type"
+      ]
+    },
+    {
+      "id": "language_count",
+      "name": "Language Count",
+      "value": 0,
+      "formatted": "0",
+      "category": "content_mix",
+      "description": "Number of distinct languages across channels",
+      "unit": "languages",
+      "function": "compute_language_count",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "bottom_performing_channel",
+      "name": "Lowest Channel",
+      "value": "D (0.00%)",
+      "formatted": "D (0.00%)",
+      "category": "conversion",
+      "description": "Channel with lowest publish rate",
+      "unit": "",
+      "function": "compute_bottom_performing_channel",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "output_type_publish_rate",
+      "name": "Best Output Publish Rate",
+      "value": "My Key moments (2.59%)",
+      "formatted": "My Key moments (2.59%)",
+      "category": "conversion",
+      "description": "Output type with highest publish rate",
+      "unit": "",
+      "function": "compute_output_type_publish_rate",
+      "dataset_sources": [
+        "output_type"
+      ]
+    },
+    {
+      "id": "mom_upload_growth",
+      "name": "MoM Upload Growth",
+      "value": 0.0,
+      "formatted": "0.00%",
+      "category": "growth",
+      "description": "Month-over-month upload growth percentage",
+      "unit": "percent",
+      "function": "compute_mom_upload_growth",
+      "dataset_sources": [
+        "monthly"
+      ]
+    },
+    {
+      "id": "peak_publish_month",
+      "name": "Peak Publish Month",
+      "value": "N/A",
+      "formatted": "N/A",
+      "category": "growth",
+      "description": "Month with highest publish volume",
+      "unit": "",
+      "function": "compute_peak_publish_month",
+      "dataset_sources": [
+        "monthly"
+      ]
+    },
+    {
+      "id": "top_platform",
+      "name": "Top Platform",
+      "value": "youtube_count (35)",
+      "formatted": "youtube_count (35)",
+      "category": "platform",
+      "description": "Platform with highest total published count",
+      "unit": "",
+      "function": "compute_top_platform",
+      "dataset_sources": [
+        "channel_platform"
+      ]
+    },
+    {
+      "id": "publish_dropoff",
+      "name": "Publish Drop-off",
+      "value": 14866,
+      "formatted": "14,866",
+      "category": "conversion",
+      "description": "Number of created clips that were not published",
+      "unit": "videos",
+      "function": "compute_publish_dropoff",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "zero_pub_channel_count",
+      "name": "Zero-Pub Channels",
+      "value": 12,
+      "formatted": "12",
+      "category": "conversion",
+      "description": "Number of channels with zero published clips",
+      "unit": "channels",
+      "function": "compute_zero_pub_channel_count",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "active_channel_count",
+      "name": "Active Channels",
+      "value": 18,
+      "formatted": "18",
+      "category": "volume",
+      "description": "Number of channels with at least one upload",
+      "unit": "channels",
+      "function": "compute_active_channel_count",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "publishing_channel_count",
+      "name": "Publishing Channels",
+      "value": 6,
+      "formatted": "6",
+      "category": "volume",
+      "description": "Number of channels that have published at least one clip",
+      "unit": "channels",
+      "function": "compute_publishing_channel_count",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "zero_pub_month_count",
+      "name": "Zero-Pub Months",
+      "value": 0,
+      "formatted": "0",
+      "category": "growth",
+      "description": "Number of months with zero published output",
+      "unit": "months",
+      "function": "compute_zero_pub_month_count",
+      "dataset_sources": [
+        "monthly"
+      ]
+    },
+    {
+      "id": "mom_created_growth",
+      "name": "MoM Created Growth",
+      "value": 0.0,
+      "formatted": "0.00%",
+      "category": "growth",
+      "description": "Month-over-month growth in created clips",
+      "unit": "percent",
+      "function": "compute_mom_created_growth",
+      "dataset_sources": [
+        "monthly"
+      ]
+    },
+    {
+      "id": "channel_publish_concentration",
+      "name": "Channel Publish Concentration",
+      "value": 39.58,
+      "formatted": "39.58%",
+      "category": "conversion",
+      "description": "Percentage of total publishes from the top channel",
+      "unit": "percent",
+      "function": "compute_channel_publish_concentration",
+      "dataset_sources": [
+        "channel_summary"
+      ]
+    },
+    {
+      "id": "top_user_by_created",
+      "name": "Top Creator",
+      "value": "Chandan",
+      "formatted": "Chandan",
+      "category": "content_mix",
+      "description": "User with the most created clips",
+      "unit": "",
+      "function": "compute_top_user_by_created",
+      "dataset_sources": [
+        "user_summary"
+      ]
+    },
+    {
+      "id": "top_user_by_published",
+      "name": "Top Publisher",
+      "value": "Chandan",
+      "formatted": "Chandan",
+      "category": "content_mix",
+      "description": "User with the most published clips",
+      "unit": "",
+      "function": "compute_top_user_by_published",
+      "dataset_sources": [
+        "user_summary"
+      ]
+    },
+    {
+      "id": "zero_pub_user_count",
+      "name": "Zero-Pub Users",
+      "value": 26,
+      "formatted": "26",
+      "category": "content_mix",
+      "description": "Number of users with zero published clips",
+      "unit": "users",
+      "function": "compute_zero_pub_user_count",
+      "dataset_sources": [
+        "user_summary"
+      ]
+    },
+    {
+      "id": "top_language",
+      "name": "Top Language",
+      "value": "en",
+      "formatted": "en",
+      "category": "content_mix",
+      "description": "Language with the most created clips",
+      "unit": "",
+      "function": "compute_top_language",
+      "dataset_sources": [
+        "language"
+      ]
+    },
+    {
+      "id": "english_publish_rate",
+      "name": "English Publish Rate",
+      "value": 1.03,
+      "formatted": "1.03%",
+      "category": "content_mix",
+      "description": "Publish rate for English content",
+      "unit": "percent",
+      "function": "compute_english_publish_rate",
+      "dataset_sources": [
+        "language"
+      ]
+    },
+    {
+      "id": "unknown_team_rate",
+      "name": "Unknown Team Rate",
+      "value": 99.29,
+      "formatted": "99.29%",
+      "category": "data_quality",
+      "description": "Percentage of videos with unknown team attribution",
+      "unit": "percent",
+      "function": "compute_unknown_team_rate",
+      "dataset_sources": [
+        "video_list"
+      ]
+    },
+    {
+      "id": "null_platform_rate",
+      "name": "Platform NULL Rate",
+      "value": 136.0,
+      "formatted": "136.00%",
+      "category": "data_quality",
+      "description": "Percentage of published videos missing platform info",
+      "unit": "percent",
+      "function": "compute_null_platform_rate",
+      "dataset_sources": [
+        "video_list"
+      ]
+    },
+    {
+      "id": "data_quality_score",
+      "name": "Data Quality Score",
+      "value": 30.2,
+      "formatted": "30.2%",
+      "category": "data_quality",
+      "description": "Weighted average completeness score across key fields",
+      "unit": "percent",
+      "function": "compute_data_quality_score",
+      "dataset_sources": [
+        "video_list"
+      ]
+    }
+  ],
+  "by_category": {
+    "volume": [
+      {
+        "id": "total_uploaded",
+        "name": "Total Uploaded",
+        "value": 4453,
+        "formatted": "4,453",
+        "category": "volume",
+        "description": "Total videos uploaded by users",
+        "unit": "videos",
+        "function": "compute_total_uploaded",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "total_processed",
+        "name": "Total Processed",
+        "value": 14914,
+        "formatted": "14,914",
+        "category": "volume",
+        "description": "Total clips created by AI",
+        "unit": "outputs",
+        "function": "compute_total_processed",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "total_published",
+        "name": "Total Published",
+        "value": 48,
+        "formatted": "48",
+        "category": "volume",
+        "description": "Total clips published to platforms",
+        "unit": "videos",
+        "function": "compute_total_published",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "distinct_channels",
+        "name": "Distinct Channels",
+        "value": 18,
+        "formatted": "18",
+        "category": "volume",
+        "description": "Number of unique channels",
+        "unit": "channels",
+        "function": "compute_distinct_channels",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "distinct_users",
+        "name": "Distinct Users",
+        "value": 45,
+        "formatted": "45",
+        "category": "volume",
+        "description": "Number of unique users",
+        "unit": "users",
+        "function": "compute_distinct_users",
+        "dataset_sources": [
+          "user_summary"
+        ]
+      },
+      {
+        "id": "active_channel_count",
+        "name": "Active Channels",
+        "value": 18,
+        "formatted": "18",
+        "category": "volume",
+        "description": "Number of channels with at least one upload",
+        "unit": "channels",
+        "function": "compute_active_channel_count",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "publishing_channel_count",
+        "name": "Publishing Channels",
+        "value": 6,
+        "formatted": "6",
+        "category": "volume",
+        "description": "Number of channels that have published at least one clip",
+        "unit": "channels",
+        "function": "compute_publishing_channel_count",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      }
+    ],
+    "conversion": [
+      {
+        "id": "publish_rate",
+        "name": "Publish Rate",
+        "value": 0.32,
+        "formatted": "0.32%",
+        "category": "conversion",
+        "description": "Percentage of processed clips published",
+        "unit": "percent",
+        "function": "compute_publish_rate",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "top_performing_channel",
+        "name": "Top Channel",
+        "value": "E (0.62%)",
+        "formatted": "E (0.62%)",
+        "category": "conversion",
+        "description": "Channel with highest publish rate",
+        "unit": "",
+        "function": "compute_top_performing_channel",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "bottom_performing_channel",
+        "name": "Lowest Channel",
+        "value": "D (0.00%)",
+        "formatted": "D (0.00%)",
+        "category": "conversion",
+        "description": "Channel with lowest publish rate",
+        "unit": "",
+        "function": "compute_bottom_performing_channel",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "output_type_publish_rate",
+        "name": "Best Output Publish Rate",
+        "value": "My Key moments (2.59%)",
+        "formatted": "My Key moments (2.59%)",
+        "category": "conversion",
+        "description": "Output type with highest publish rate",
+        "unit": "",
+        "function": "compute_output_type_publish_rate",
+        "dataset_sources": [
+          "output_type"
+        ]
+      },
+      {
+        "id": "publish_dropoff",
+        "name": "Publish Drop-off",
+        "value": 14866,
+        "formatted": "14,866",
+        "category": "conversion",
+        "description": "Number of created clips that were not published",
+        "unit": "videos",
+        "function": "compute_publish_dropoff",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "zero_pub_channel_count",
+        "name": "Zero-Pub Channels",
+        "value": 12,
+        "formatted": "12",
+        "category": "conversion",
+        "description": "Number of channels with zero published clips",
+        "unit": "channels",
+        "function": "compute_zero_pub_channel_count",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "channel_publish_concentration",
+        "name": "Channel Publish Concentration",
+        "value": 39.58,
+        "formatted": "39.58%",
+        "category": "conversion",
+        "description": "Percentage of total publishes from the top channel",
+        "unit": "percent",
+        "function": "compute_channel_publish_concentration",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      }
+    ],
+    "efficiency": [
+      {
+        "id": "amplification_ratio",
+        "name": "Amplification Ratio",
+        "value": 3.35,
+        "formatted": "3.35x",
+        "category": "efficiency",
+        "description": "Output clips per uploaded video",
+        "unit": "ratio",
+        "function": "compute_amplification_ratio",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "process_rate",
+        "name": "Process Rate",
+        "value": 334.92,
+        "formatted": "334.92%",
+        "category": "efficiency",
+        "description": "Processing rate as percentage",
+        "unit": "percent",
+        "function": "compute_process_rate",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "peak_upload_month",
+        "name": "Peak Upload Month",
+        "value": "",
+        "formatted": "",
+        "category": "efficiency",
+        "description": "Month with highest upload volume",
+        "unit": "",
+        "function": "compute_peak_upload_month",
+        "dataset_sources": [
+          "monthly"
+        ]
+      }
+    ],
+    "duration": [
+      {
+        "id": "uploaded_hours",
+        "name": "Uploaded Hours",
+        "value": 807.67,
+        "formatted": "807.67h",
+        "category": "duration",
+        "description": "Total duration of uploaded videos in hours",
+        "unit": "hours",
+        "function": "compute_uploaded_hours",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "processed_hours",
+        "name": "Processed Hours",
+        "value": 1355.17,
+        "formatted": "1355.17h",
+        "category": "duration",
+        "description": "Total duration of processed clips in hours",
+        "unit": "hours",
+        "function": "compute_processed_hours",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "published_hours",
+        "name": "Published Hours",
+        "value": 4.38,
+        "formatted": "4.38h",
+        "category": "duration",
+        "description": "Total duration of published clips in hours",
+        "unit": "hours",
+        "function": "compute_published_hours",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "avg_upload_min",
+        "name": "Avg Upload Duration",
+        "value": 10.88,
+        "formatted": "10.88 min",
+        "category": "duration",
+        "description": "Average duration per uploaded video in minutes",
+        "unit": "minutes",
+        "function": "compute_avg_upload_duration",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      }
+    ],
+    "content_mix": [
+      {
+        "id": "top_output_type",
+        "name": "Top Output Type",
+        "value": "Key moments",
+        "formatted": "Key moments",
+        "category": "content_mix",
+        "description": "Output type with highest created count",
+        "unit": "",
+        "function": "compute_top_output_type",
+        "dataset_sources": [
+          "output_type"
+        ]
+      },
+      {
+        "id": "top_input_type",
+        "name": "Top Input Type",
+        "value": "interview",
+        "formatted": "interview",
+        "category": "content_mix",
+        "description": "Input type with highest uploaded count",
+        "unit": "",
+        "function": "compute_top_input_type",
+        "dataset_sources": [
+          "input_type"
+        ]
+      },
+      {
+        "id": "language_count",
+        "name": "Language Count",
+        "value": 0,
+        "formatted": "0",
+        "category": "content_mix",
+        "description": "Number of distinct languages across channels",
+        "unit": "languages",
+        "function": "compute_language_count",
+        "dataset_sources": [
+          "channel_summary"
+        ]
+      },
+      {
+        "id": "top_user_by_created",
+        "name": "Top Creator",
+        "value": "Chandan",
+        "formatted": "Chandan",
+        "category": "content_mix",
+        "description": "User with the most created clips",
+        "unit": "",
+        "function": "compute_top_user_by_created",
+        "dataset_sources": [
+          "user_summary"
+        ]
+      },
+      {
+        "id": "top_user_by_published",
+        "name": "Top Publisher",
+        "value": "Chandan",
+        "formatted": "Chandan",
+        "category": "content_mix",
+        "description": "User with the most published clips",
+        "unit": "",
+        "function": "compute_top_user_by_published",
+        "dataset_sources": [
+          "user_summary"
+        ]
+      },
+      {
+        "id": "zero_pub_user_count",
+        "name": "Zero-Pub Users",
+        "value": 26,
+        "formatted": "26",
+        "category": "content_mix",
+        "description": "Number of users with zero published clips",
+        "unit": "users",
+        "function": "compute_zero_pub_user_count",
+        "dataset_sources": [
+          "user_summary"
+        ]
+      },
+      {
+        "id": "top_language",
+        "name": "Top Language",
+        "value": "en",
+        "formatted": "en",
+        "category": "content_mix",
+        "description": "Language with the most created clips",
+        "unit": "",
+        "function": "compute_top_language",
+        "dataset_sources": [
+          "language"
+        ]
+      },
+      {
+        "id": "english_publish_rate",
+        "name": "English Publish Rate",
+        "value": 1.03,
+        "formatted": "1.03%",
+        "category": "content_mix",
+        "description": "Publish rate for English content",
+        "unit": "percent",
+        "function": "compute_english_publish_rate",
+        "dataset_sources": [
+          "language"
+        ]
+      }
+    ],
+    "growth": [
+      {
+        "id": "mom_upload_growth",
+        "name": "MoM Upload Growth",
+        "value": 0.0,
+        "formatted": "0.00%",
+        "category": "growth",
+        "description": "Month-over-month upload growth percentage",
+        "unit": "percent",
+        "function": "compute_mom_upload_growth",
+        "dataset_sources": [
+          "monthly"
+        ]
+      },
+      {
+        "id": "peak_publish_month",
+        "name": "Peak Publish Month",
+        "value": "N/A",
+        "formatted": "N/A",
+        "category": "growth",
+        "description": "Month with highest publish volume",
+        "unit": "",
+        "function": "compute_peak_publish_month",
+        "dataset_sources": [
+          "monthly"
+        ]
+      },
+      {
+        "id": "zero_pub_month_count",
+        "name": "Zero-Pub Months",
+        "value": 0,
+        "formatted": "0",
+        "category": "growth",
+        "description": "Number of months with zero published output",
+        "unit": "months",
+        "function": "compute_zero_pub_month_count",
+        "dataset_sources": [
+          "monthly"
+        ]
+      },
+      {
+        "id": "mom_created_growth",
+        "name": "MoM Created Growth",
+        "value": 0.0,
+        "formatted": "0.00%",
+        "category": "growth",
+        "description": "Month-over-month growth in created clips",
+        "unit": "percent",
+        "function": "compute_mom_created_growth",
+        "dataset_sources": [
+          "monthly"
+        ]
+      }
+    ],
+    "platform": [
+      {
+        "id": "top_platform",
+        "name": "Top Platform",
+        "value": "youtube_count (35)",
+        "formatted": "youtube_count (35)",
+        "category": "platform",
+        "description": "Platform with highest total published count",
+        "unit": "",
+        "function": "compute_top_platform",
+        "dataset_sources": [
+          "channel_platform"
+        ]
+      }
+    ],
+    "data_quality": [
+      {
+        "id": "unknown_team_rate",
+        "name": "Unknown Team Rate",
+        "value": 99.29,
+        "formatted": "99.29%",
+        "category": "data_quality",
+        "description": "Percentage of videos with unknown team attribution",
+        "unit": "percent",
+        "function": "compute_unknown_team_rate",
+        "dataset_sources": [
+          "video_list"
+        ]
+      },
+      {
+        "id": "null_platform_rate",
+        "name": "Platform NULL Rate",
+        "value": 136.0,
+        "formatted": "136.00%",
+        "category": "data_quality",
+        "description": "Percentage of published videos missing platform info",
+        "unit": "percent",
+        "function": "compute_null_platform_rate",
+        "dataset_sources": [
+          "video_list"
+        ]
+      },
+      {
+        "id": "data_quality_score",
+        "name": "Data Quality Score",
+        "value": 30.2,
+        "formatted": "30.2%",
+        "category": "data_quality",
+        "description": "Weighted average completeness score across key fields",
+        "unit": "percent",
+        "function": "compute_data_quality_score",
+        "dataset_sources": [
+          "video_list"
+        ]
+      }
+    ]
+  },
+  "count": 37,
+  "chart_data": {
+    "monthly_trends": [
+      {
+        "month": "Apr, 2025",
+        "uploadedDuration": "65:28:28",
+        "createdDuration": "98:01:05",
+        "publishedDuration": "01:05:42",
+        "publishRate": 0
+      },
+      {
+        "month": "Aug, 2025",
+        "uploadedDuration": "39:56:34",
+        "createdDuration": "64:31:04",
+        "publishedDuration": "00:06:33",
+        "publishRate": 0
+      },
+      {
+        "month": "Dec, 2025",
+        "uploadedDuration": "38:15:27",
+        "createdDuration": "71:41:50",
+        "publishedDuration": "00:14:38",
+        "publishRate": 0
+      },
+      {
+        "month": "Feb, 2026",
+        "uploadedDuration": "161:52:11",
+        "createdDuration": "301:30:46",
+        "publishedDuration": "00:56:12",
+        "publishRate": 0
+      },
+      {
+        "month": "Jan, 2026",
+        "uploadedDuration": "121:59:42",
+        "createdDuration": "191:27:32",
+        "publishedDuration": "01:26:44",
+        "publishRate": 0
+      },
+      {
+        "month": "Jul, 2025",
+        "uploadedDuration": "33:36:59",
+        "createdDuration": "66:50:11",
+        "publishedDuration": "00:00:00",
+        "publishRate": 0
+      },
+      {
+        "month": "Jun, 2025",
+        "uploadedDuration": "47:10:45",
+        "createdDuration": "84:09:19",
+        "publishedDuration": "00:11:48",
+        "publishRate": 0
+      },
+      {
+        "month": "Mar, 2025",
+        "uploadedDuration": "122:03:35",
+        "createdDuration": "176:16:55",
+        "publishedDuration": "00:00:00",
+        "publishRate": 0
+      },
+      {
+        "month": "May, 2025",
+        "uploadedDuration": "46:56:53",
+        "createdDuration": "64:26:46",
+        "publishedDuration": "00:03:52",
+        "publishRate": 0
+      },
+      {
+        "month": "Nov, 2025",
+        "uploadedDuration": "48:06:54",
+        "createdDuration": "83:22:47",
+        "publishedDuration": "00:02:13",
+        "publishRate": 0
+      },
+      {
+        "month": "Oct, 2025",
+        "uploadedDuration": "47:51:24",
+        "createdDuration": "94:17:09",
+        "publishedDuration": "00:14:55",
+        "publishRate": 0
+      },
+      {
+        "month": "Sep, 2025",
+        "uploadedDuration": "34:21:14",
+        "createdDuration": "58:38:05",
+        "publishedDuration": "00:00:00",
+        "publishRate": 0
+      }
+    ],
+    "channel_performance": [
+      {
+        "name": "Channel A",
+        "uploaded": 1470,
+        "created": 4725,
+        "published": 8,
+        "rate": 0.17,
+        "amp": 3.21
+      },
+      {
+        "name": "Channel B",
+        "uploaded": 1293,
+        "created": 4251,
+        "published": 19,
+        "rate": 0.45,
+        "amp": 3.29
+      },
+      {
+        "name": "Channel C",
+        "uploaded": 765,
+        "created": 2631,
+        "published": 14,
+        "rate": 0.53,
+        "amp": 3.44
+      },
+      {
+        "name": "Channel D",
+        "uploaded": 221,
+        "created": 701,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 3.17
+      },
+      {
+        "name": "Channel E",
+        "uploaded": 201,
+        "created": 807,
+        "published": 5,
+        "rate": 0.62,
+        "amp": 4.01
+      },
+      {
+        "name": "Channel F",
+        "uploaded": 130,
+        "created": 320,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 2.46
+      },
+      {
+        "name": "Channel G",
+        "uploaded": 106,
+        "created": 351,
+        "published": 1,
+        "rate": 0.28,
+        "amp": 3.31
+      },
+      {
+        "name": "Channel H",
+        "uploaded": 89,
+        "created": 329,
+        "published": 1,
+        "rate": 0.3,
+        "amp": 3.7
+      },
+      {
+        "name": "Channel I",
+        "uploaded": 59,
+        "created": 262,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 4.44
+      },
+      {
+        "name": "Channel J",
+        "uploaded": 37,
+        "created": 145,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 3.92
+      },
+      {
+        "name": "Channel K",
+        "uploaded": 29,
+        "created": 83,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 2.86
+      },
+      {
+        "name": "Channel L",
+        "uploaded": 17,
+        "created": 216,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 12.71
+      },
+      {
+        "name": "Channel M",
+        "uploaded": 8,
+        "created": 14,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 1.75
+      },
+      {
+        "name": "Channel N",
+        "uploaded": 8,
+        "created": 21,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 2.62
+      },
+      {
+        "name": "Channel O",
+        "uploaded": 7,
+        "created": 18,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 2.57
+      },
+      {
+        "name": "Channel P",
+        "uploaded": 5,
+        "created": 14,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 2.8
+      },
+      {
+        "name": "Channel Q",
+        "uploaded": 5,
+        "created": 19,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 3.8
+      },
+      {
+        "name": "Channel R",
+        "uploaded": 3,
+        "created": 7,
+        "published": 0,
+        "rate": 0.0,
+        "amp": 2.33
+      }
+    ],
+    "funnel_data": [
+      {
+        "stage": "Uploaded",
+        "value": 4453
+      },
+      {
+        "stage": "Processed",
+        "value": 14914
+      },
+      {
+        "stage": "Published",
+        "value": 48
+      }
+    ],
+    "output_type_mix": [
+      {
+        "name": "Key moments",
+        "value": 6377,
+        "color": "#06B6D4"
+      },
+      {
+        "name": "Full package",
+        "value": 4453,
+        "color": "#4F46E5"
+      },
+      {
+        "name": "Chapters",
+        "value": 2007,
+        "color": "#10B981"
+      },
+      {
+        "name": "My Key moments",
+        "value": 1237,
+        "color": "#F59E0B"
+      },
+      {
+        "name": "Summary",
+        "value": 840,
+        "color": "#EF4444"
+      }
+    ],
+    "input_type_mix": [
+      {
+        "name": "interview",
+        "value": 1299,
+        "color": "#4F46E5"
+      },
+      {
+        "name": "news bulletin",
+        "value": 1026,
+        "color": "#06B6D4"
+      },
+      {
+        "name": "special reports",
+        "value": 755,
+        "color": "#10B981"
+      },
+      {
+        "name": "speech",
+        "value": 742,
+        "color": "#F59E0B"
+      },
+      {
+        "name": "debate",
+        "value": 290,
+        "color": "#EF4444"
+      },
+      {
+        "name": "press conference",
+        "value": 280,
+        "color": "#8B5CF6"
+      },
+      {
+        "name": "discussion-show",
+        "value": 19,
+        "color": "#EC4899"
+      },
+      {
+        "name": "sports show",
+        "value": 17,
+        "color": "#14B8A6"
+      },
+      {
+        "name": "Unknown",
+        "value": 12,
+        "color": "#F97316"
+      },
+      {
+        "name": "podcast",
+        "value": 8,
+        "color": "#6366F1"
+      },
+      {
+        "name": "drama",
+        "value": 4,
+        "color": "#D946EF"
+      },
+      {
+        "name": "in-brief",
+        "value": 1,
+        "color": "#84CC16"
+      }
+    ],
+    "input_type_performance": [
+      {
+        "type": "interview",
+        "uploaded": 1299,
+        "created": 4972,
+        "published": 35,
+        "publishRate": 2.69,
+        "amp": 3.83
+      },
+      {
+        "type": "news bulletin",
+        "uploaded": 1026,
+        "created": 3238,
+        "published": 39,
+        "publishRate": 3.8,
+        "amp": 3.16
+      },
+      {
+        "type": "special reports",
+        "uploaded": 755,
+        "created": 2129,
+        "published": 15,
+        "publishRate": 1.99,
+        "amp": 2.82
+      },
+      {
+        "type": "speech",
+        "uploaded": 742,
+        "created": 2390,
+        "published": 12,
+        "publishRate": 1.62,
+        "amp": 3.22
+      },
+      {
+        "type": "debate",
+        "uploaded": 290,
+        "created": 1074,
+        "published": 5,
+        "publishRate": 1.72,
+        "amp": 3.7
+      },
+      {
+        "type": "press conference",
+        "uploaded": 280,
+        "created": 973,
+        "published": 2,
+        "publishRate": 0.71,
+        "amp": 3.48
+      },
+      {
+        "type": "discussion-show",
+        "uploaded": 19,
+        "created": 79,
+        "published": 3,
+        "publishRate": 15.79,
+        "amp": 4.16
+      },
+      {
+        "type": "sports show",
+        "uploaded": 17,
+        "created": 19,
+        "published": 0,
+        "publishRate": 0.0,
+        "amp": 1.12
+      },
+      {
+        "type": "Unknown",
+        "uploaded": 12,
+        "created": 12,
+        "published": 0,
+        "publishRate": 0.0,
+        "amp": 1.0
+      },
+      {
+        "type": "podcast",
+        "uploaded": 8,
+        "created": 21,
+        "published": 0,
+        "publishRate": 0.0,
+        "amp": 2.62
+      },
+      {
+        "type": "drama",
+        "uploaded": 4,
+        "created": 4,
+        "published": 0,
+        "publishRate": 0.0,
+        "amp": 1.0
+      },
+      {
+        "type": "in-brief",
+        "uploaded": 1,
+        "created": 3,
+        "published": 0,
+        "publishRate": 0.0,
+        "amp": 3.0
+      }
+    ],
+    "platform_distribution": [
+      {
+        "name": "youtube_count",
+        "value": 35
+      },
+      {
+        "name": "reels_count",
+        "value": 33
+      },
+      {
+        "name": "shorts_count",
+        "value": 23
+      },
+      {
+        "name": "instagram_count",
+        "value": 11
+      },
+      {
+        "name": "facebook_count",
+        "value": 9
+      }
+    ],
+    "language_breakdown": [
+      {
+        "lang": "en",
+        "uploaded": 2647,
+        "created": 8861,
+        "published": 91,
+        "publishRate": 1.03
+      },
+      {
+        "lang": "hi",
+        "uploaded": 1792,
+        "created": 6021,
+        "published": 20,
+        "publishRate": 0.33
+      },
+      {
+        "lang": "mix",
+        "uploaded": 11,
+        "created": 29,
+        "published": 0,
+        "publishRate": 0.0
+      },
+      {
+        "lang": "es",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0,
+        "publishRate": 0.0
+      },
+      {
+        "lang": "ar",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0,
+        "publishRate": 0.0
+      },
+      {
+        "lang": "mr",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0,
+        "publishRate": 0.0
+      }
+    ],
+    "user_performance": [
+      {
+        "user": "Chandan",
+        "uploaded": 489,
+        "created": 2152,
+        "published": 19,
+        "rate": 0.88
+      },
+      {
+        "user": "QA-Purushottam",
+        "uploaded": 309,
+        "created": 1227,
+        "published": 13,
+        "rate": 1.06
+      },
+      {
+        "user": "vikas.s@moolya.com",
+        "uploaded": 265,
+        "created": 1094,
+        "published": 4,
+        "rate": 0.37
+      },
+      {
+        "user": "Sandeep Belaki",
+        "uploaded": 253,
+        "created": 1039,
+        "published": 7,
+        "rate": 0.67
+      },
+      {
+        "user": "Nitesh",
+        "uploaded": 224,
+        "created": 959,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Abhishek",
+        "uploaded": 201,
+        "created": 408,
+        "published": 8,
+        "rate": 1.96
+      },
+      {
+        "user": "Auto Upload",
+        "uploaded": 185,
+        "created": 220,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Subhesh",
+        "uploaded": 184,
+        "created": 489,
+        "published": 7,
+        "rate": 1.43
+      },
+      {
+        "user": "Trivendra",
+        "uploaded": 179,
+        "created": 825,
+        "published": 3,
+        "rate": 0.36
+      },
+      {
+        "user": "Dheeraj Pareek(QA theveritycorp.com)",
+        "uploaded": 166,
+        "created": 482,
+        "published": 2,
+        "rate": 0.41
+      },
+      {
+        "user": "vinay singh",
+        "uploaded": 161,
+        "created": 530,
+        "published": 3,
+        "rate": 0.57
+      },
+      {
+        "user": "Neha",
+        "uploaded": 158,
+        "created": 510,
+        "published": 10,
+        "rate": 1.96
+      },
+      {
+        "user": "Subhash (moolya)",
+        "uploaded": 154,
+        "created": 457,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Adarsh (Frammer)",
+        "uploaded": 141,
+        "created": 262,
+        "published": 5,
+        "rate": 1.91
+      },
+      {
+        "user": "Anamika Singh",
+        "uploaded": 121,
+        "created": 567,
+        "published": 2,
+        "rate": 0.35
+      },
+      {
+        "user": "AB",
+        "uploaded": 101,
+        "created": 368,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Divyanshu Dutta Roy",
+        "uploaded": 95,
+        "created": 380,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Ashween",
+        "uploaded": 95,
+        "created": 99,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Vaibhav",
+        "uploaded": 94,
+        "created": 268,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Alok Rai",
+        "uploaded": 86,
+        "created": 143,
+        "published": 4,
+        "rate": 2.8
+      },
+      {
+        "user": "sukhleen",
+        "uploaded": 84,
+        "created": 221,
+        "published": 1,
+        "rate": 0.45
+      },
+      {
+        "user": "Shadab",
+        "uploaded": 83,
+        "created": 219,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Abhishek Sri",
+        "uploaded": 81,
+        "created": 372,
+        "published": 1,
+        "rate": 0.27
+      },
+      {
+        "user": "QA-Bhargavi",
+        "uploaded": 75,
+        "created": 271,
+        "published": 6,
+        "rate": 2.21
+      },
+      {
+        "user": "Deepika Uniyal (QA testaing.com)",
+        "uploaded": 72,
+        "created": 416,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Prithviraj",
+        "uploaded": 66,
+        "created": 97,
+        "published": 6,
+        "rate": 6.19
+      },
+      {
+        "user": "Rakesh (devops@frammer.com)",
+        "uploaded": 45,
+        "created": 74,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Harish",
+        "uploaded": 41,
+        "created": 166,
+        "published": 7,
+        "rate": 4.22
+      },
+      {
+        "user": "QA-Ankith",
+        "uploaded": 40,
+        "created": 106,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Ravi Pratap Rai",
+        "uploaded": 39,
+        "created": 52,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "QA-Aniket",
+        "uploaded": 37,
+        "created": 149,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Kallol Pratim",
+        "uploaded": 34,
+        "created": 91,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Ritwik",
+        "uploaded": 24,
+        "created": 25,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Richa",
+        "uploaded": 18,
+        "created": 36,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "deleteme@frammer.com",
+        "uploaded": 16,
+        "created": 38,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Kawaljit Singh Bedi",
+        "uploaded": 8,
+        "created": 9,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Safdar",
+        "uploaded": 8,
+        "created": 25,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Arun J",
+        "uploaded": 5,
+        "created": 13,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "QA-Amit",
+        "uploaded": 5,
+        "created": 22,
+        "published": 3,
+        "rate": 13.64
+      },
+      {
+        "user": "Test User",
+        "uploaded": 4,
+        "created": 14,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Arijit Chatterjee",
+        "uploaded": 2,
+        "created": 3,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "swathi.bharadwaj@moolya.com",
+        "uploaded": 2,
+        "created": 2,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "parakh",
+        "uploaded": 2,
+        "created": 6,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Dheerendra Kumar",
+        "uploaded": 1,
+        "created": 3,
+        "published": 0,
+        "rate": 0.0
+      },
+      {
+        "user": "Sumit (Frammer)",
+        "uploaded": 0,
+        "created": 5,
+        "published": 0,
+        "rate": 0.0
+      }
+    ],
+    "channel_user_breakdown": [
+      {
+        "channel": "A",
+        "user": "Chandan",
+        "uploaded": 247,
+        "created": 1029,
+        "published": 18
+      },
+      {
+        "channel": "B",
+        "user": "Auto Upload",
+        "uploaded": 176,
+        "created": 176,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Sandeep Belaki",
+        "uploaded": 133,
+        "created": 560,
+        "published": 3
+      },
+      {
+        "channel": "A",
+        "user": "Adarsh (Frammer)",
+        "uploaded": 104,
+        "created": 182,
+        "published": 2
+      },
+      {
+        "channel": "B",
+        "user": "Nitesh",
+        "uploaded": 103,
+        "created": 487,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Nitesh",
+        "uploaded": 99,
+        "created": 367,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "QA-Purushottam",
+        "uploaded": 93,
+        "created": 392,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "QA-Purushottam",
+        "uploaded": 91,
+        "created": 346,
+        "published": 1
+      },
+      {
+        "channel": "B",
+        "user": "Trivendra",
+        "uploaded": 91,
+        "created": 406,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Chandan",
+        "uploaded": 87,
+        "created": 408,
+        "published": 1
+      },
+      {
+        "channel": "A",
+        "user": "vikas.s@moolya.com",
+        "uploaded": 85,
+        "created": 321,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Anamika Singh",
+        "uploaded": 84,
+        "created": 410,
+        "published": 2
+      },
+      {
+        "channel": "A",
+        "user": "Ashween",
+        "uploaded": 80,
+        "created": 84,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Abhishek",
+        "uploaded": 74,
+        "created": 144,
+        "published": 3
+      },
+      {
+        "channel": "A",
+        "user": "QA-Purushottam",
+        "uploaded": 72,
+        "created": 270,
+        "published": 10
+      },
+      {
+        "channel": "B",
+        "user": "Subhesh",
+        "uploaded": 70,
+        "created": 146,
+        "published": 4
+      },
+      {
+        "channel": "B",
+        "user": "AB",
+        "uploaded": 67,
+        "created": 227,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Chandan",
+        "uploaded": 67,
+        "created": 274,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Neha",
+        "uploaded": 67,
+        "created": 201,
+        "published": 7
+      },
+      {
+        "channel": "C",
+        "user": "vinay singh",
+        "uploaded": 66,
+        "created": 247,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Trivendra",
+        "uploaded": 64,
+        "created": 306,
+        "published": 1
+      },
+      {
+        "channel": "B",
+        "user": "Abhishek",
+        "uploaded": 54,
+        "created": 97,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Dheeraj Pareek(QA theveritycorp.com)",
+        "uploaded": 53,
+        "created": 155,
+        "published": 2
+      },
+      {
+        "channel": "A",
+        "user": "Vaibhav",
+        "uploaded": 52,
+        "created": 149,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Prithviraj",
+        "uploaded": 51,
+        "created": 69,
+        "published": 2
+      },
+      {
+        "channel": "C",
+        "user": "Divyanshu Dutta Roy",
+        "uploaded": 50,
+        "created": 267,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Subhesh",
+        "uploaded": 50,
+        "created": 90,
+        "published": 2
+      },
+      {
+        "channel": "B",
+        "user": "vinay singh",
+        "uploaded": 46,
+        "created": 181,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Chandan",
+        "uploaded": 46,
+        "created": 231,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Rakesh (devops@frammer.com)",
+        "uploaded": 45,
+        "created": 74,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Sandeep Belaki",
+        "uploaded": 44,
+        "created": 167,
+        "published": 4
+      },
+      {
+        "channel": "B",
+        "user": "vikas.s@moolya.com",
+        "uploaded": 42,
+        "created": 148,
+        "published": 1
+      },
+      {
+        "channel": "D",
+        "user": "Dheeraj Pareek(QA theveritycorp.com)",
+        "uploaded": 42,
+        "created": 115,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Subhash (moolya)",
+        "uploaded": 40,
+        "created": 119,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "vikas.s@moolya.com",
+        "uploaded": 38,
+        "created": 176,
+        "published": 0
+      },
+      {
+        "channel": "H",
+        "user": "vikas.s@moolya.com",
+        "uploaded": 37,
+        "created": 169,
+        "published": 1
+      },
+      {
+        "channel": "C",
+        "user": "Abhishek",
+        "uploaded": 36,
+        "created": 74,
+        "published": 5
+      },
+      {
+        "channel": "C",
+        "user": "Subhesh",
+        "uploaded": 35,
+        "created": 117,
+        "published": 1
+      },
+      {
+        "channel": "C",
+        "user": "Alok Rai",
+        "uploaded": 35,
+        "created": 40,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "QA-Bhargavi",
+        "uploaded": 34,
+        "created": 111,
+        "published": 1
+      },
+      {
+        "channel": "D",
+        "user": "Shadab",
+        "uploaded": 34,
+        "created": 86,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "AB",
+        "uploaded": 33,
+        "created": 136,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "QA-Ankith",
+        "uploaded": 32,
+        "created": 84,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Deepika Uniyal (QA testaing.com)",
+        "uploaded": 32,
+        "created": 198,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Alok Rai",
+        "uploaded": 31,
+        "created": 71,
+        "published": 1
+      },
+      {
+        "channel": "C",
+        "user": "Abhishek Sri",
+        "uploaded": 29,
+        "created": 113,
+        "published": 1
+      },
+      {
+        "channel": "B",
+        "user": "Divyanshu Dutta Roy",
+        "uploaded": 28,
+        "created": 82,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "vinay singh",
+        "uploaded": 28,
+        "created": 62,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Dheeraj Pareek(QA theveritycorp.com)",
+        "uploaded": 28,
+        "created": 113,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Harish",
+        "uploaded": 27,
+        "created": 82,
+        "published": 6
+      },
+      {
+        "channel": "B",
+        "user": "QA-Bhargavi",
+        "uploaded": 26,
+        "created": 113,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "vikas.s@moolya.com",
+        "uploaded": 26,
+        "created": 110,
+        "published": 1
+      },
+      {
+        "channel": "C",
+        "user": "Sandeep Belaki",
+        "uploaded": 26,
+        "created": 87,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Abhishek Sri",
+        "uploaded": 26,
+        "created": 199,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Subhash (moolya)",
+        "uploaded": 25,
+        "created": 92,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Shadab",
+        "uploaded": 25,
+        "created": 74,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Neha",
+        "uploaded": 25,
+        "created": 98,
+        "published": 3
+      },
+      {
+        "channel": "C",
+        "user": "Vaibhav",
+        "uploaded": 25,
+        "created": 70,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Neha",
+        "uploaded": 23,
+        "created": 76,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "QA-Purushottam",
+        "uploaded": 22,
+        "created": 95,
+        "published": 2
+      },
+      {
+        "channel": "B",
+        "user": "Ravi Pratap Rai",
+        "uploaded": 22,
+        "created": 26,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Adarsh (Frammer)",
+        "uploaded": 22,
+        "created": 50,
+        "published": 3
+      },
+      {
+        "channel": "A",
+        "user": "Shadab",
+        "uploaded": 22,
+        "created": 57,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Dheeraj Pareek(QA theveritycorp.com)",
+        "uploaded": 21,
+        "created": 52,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "sukhleen",
+        "uploaded": 21,
+        "created": 73,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Neha",
+        "uploaded": 21,
+        "created": 58,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "QA-Purushottam",
+        "uploaded": 17,
+        "created": 60,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "QA-Aniket",
+        "uploaded": 17,
+        "created": 74,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "sukhleen",
+        "uploaded": 17,
+        "created": 27,
+        "published": 1
+      },
+      {
+        "channel": "C",
+        "user": "Chandan",
+        "uploaded": 17,
+        "created": 78,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Anamika Singh",
+        "uploaded": 17,
+        "created": 115,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Abhishek",
+        "uploaded": 16,
+        "created": 29,
+        "published": 0
+      },
+      {
+        "channel": "I",
+        "user": "Sandeep Belaki",
+        "uploaded": 16,
+        "created": 79,
+        "published": 0
+      },
+      {
+        "channel": "H",
+        "user": "Kallol Pratim",
+        "uploaded": 16,
+        "created": 62,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Vaibhav",
+        "uploaded": 16,
+        "created": 46,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "deleteme@frammer.com",
+        "uploaded": 16,
+        "created": 38,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Ritwik",
+        "uploaded": 15,
+        "created": 16,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Subhesh",
+        "uploaded": 14,
+        "created": 24,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Ashween",
+        "uploaded": 14,
+        "created": 14,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "Chandan",
+        "uploaded": 14,
+        "created": 85,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "QA-Aniket",
+        "uploaded": 13,
+        "created": 41,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Abhishek",
+        "uploaded": 13,
+        "created": 41,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Harish",
+        "uploaded": 13,
+        "created": 40,
+        "published": 1
+      },
+      {
+        "channel": "J",
+        "user": "Sandeep Belaki",
+        "uploaded": 13,
+        "created": 82,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Trivendra",
+        "uploaded": 13,
+        "created": 77,
+        "published": 2
+      },
+      {
+        "channel": "A",
+        "user": "Ravi Pratap Rai",
+        "uploaded": 12,
+        "created": 21,
+        "published": 0
+      },
+      {
+        "channel": "K",
+        "user": "Sandeep Belaki",
+        "uploaded": 12,
+        "created": 40,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Subhash (moolya)",
+        "uploaded": 12,
+        "created": 23,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Subhash (moolya)",
+        "uploaded": 12,
+        "created": 38,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "sukhleen",
+        "uploaded": 12,
+        "created": 21,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Anamika Singh",
+        "uploaded": 12,
+        "created": 21,
+        "published": 0
+      },
+      {
+        "channel": "I",
+        "user": "vikas.s@moolya.com",
+        "uploaded": 11,
+        "created": 57,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Richa",
+        "uploaded": 11,
+        "created": 19,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "Neha",
+        "uploaded": 11,
+        "created": 32,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Alok Rai",
+        "uploaded": 10,
+        "created": 12,
+        "published": 3
+      },
+      {
+        "channel": "A",
+        "user": "Divyanshu Dutta Roy",
+        "uploaded": 10,
+        "created": 23,
+        "published": 0
+      },
+      {
+        "channel": "I",
+        "user": "vinay singh",
+        "uploaded": 10,
+        "created": 22,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Nitesh",
+        "uploaded": 10,
+        "created": 16,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Abhishek Sri",
+        "uploaded": 10,
+        "created": 23,
+        "published": 0
+      },
+      {
+        "channel": "H",
+        "user": "Subhash (moolya)",
+        "uploaded": 10,
+        "created": 20,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Dheeraj Pareek(QA theveritycorp.com)",
+        "uploaded": 10,
+        "created": 27,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Deepika Uniyal (QA testaing.com)",
+        "uploaded": 10,
+        "created": 59,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "Deepika Uniyal (QA testaing.com)",
+        "uploaded": 10,
+        "created": 43,
+        "published": 0
+      },
+      {
+        "channel": "H",
+        "user": "sukhleen",
+        "uploaded": 10,
+        "created": 23,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Deepika Uniyal (QA testaing.com)",
+        "uploaded": 10,
+        "created": 51,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "QA-Bhargavi",
+        "uploaded": 9,
+        "created": 27,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Ritwik",
+        "uploaded": 9,
+        "created": 9,
+        "published": 0
+      },
+      {
+        "channel": "I",
+        "user": "QA-Purushottam",
+        "uploaded": 9,
+        "created": 44,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "vikas.s@moolya.com",
+        "uploaded": 9,
+        "created": 58,
+        "published": 1
+      },
+      {
+        "channel": "H",
+        "user": "Chandan",
+        "uploaded": 9,
+        "created": 42,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Subhesh",
+        "uploaded": 9,
+        "created": 21,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Adarsh (Frammer)",
+        "uploaded": 9,
+        "created": 24,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "QA-Ankith",
+        "uploaded": 8,
+        "created": 22,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Auto Upload",
+        "uploaded": 8,
+        "created": 43,
+        "published": 0
+      },
+      {
+        "channel": "L",
+        "user": "Subhash (moolya)",
+        "uploaded": 8,
+        "created": 22,
+        "published": 0
+      },
+      {
+        "channel": "M",
+        "user": "Subhash (moolya)",
+        "uploaded": 8,
+        "created": 14,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "Dheeraj Pareek(QA theveritycorp.com)",
+        "uploaded": 8,
+        "created": 12,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Prithviraj",
+        "uploaded": 7,
+        "created": 12,
+        "published": 0
+      },
+      {
+        "channel": "J",
+        "user": "Kallol Pratim",
+        "uploaded": 7,
+        "created": 11,
+        "published": 0
+      },
+      {
+        "channel": "K",
+        "user": "vikas.s@moolya.com",
+        "uploaded": 7,
+        "created": 20,
+        "published": 0
+      },
+      {
+        "channel": "I",
+        "user": "Subhash (moolya)",
+        "uploaded": 7,
+        "created": 38,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "sukhleen",
+        "uploaded": 7,
+        "created": 18,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Abhishek Sri",
+        "uploaded": 7,
+        "created": 15,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "Anamika Singh",
+        "uploaded": 7,
+        "created": 15,
+        "published": 0
+      },
+      {
+        "channel": "I",
+        "user": "Abhishek",
+        "uploaded": 6,
+        "created": 20,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Subhash (moolya)",
+        "uploaded": 6,
+        "created": 15,
+        "published": 0
+      },
+      {
+        "channel": "O",
+        "user": "Subhash (moolya)",
+        "uploaded": 6,
+        "created": 15,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Kawaljit Singh Bedi",
+        "uploaded": 6,
+        "created": 7,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "sukhleen",
+        "uploaded": 6,
+        "created": 28,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "sukhleen",
+        "uploaded": 6,
+        "created": 13,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Trivendra",
+        "uploaded": 6,
+        "created": 17,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Ravi Pratap Rai",
+        "uploaded": 5,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "QA-Bhargavi",
+        "uploaded": 5,
+        "created": 19,
+        "published": 5
+      },
+      {
+        "channel": "F",
+        "user": "vinay singh",
+        "uploaded": 5,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Prithviraj",
+        "uploaded": 5,
+        "created": 9,
+        "published": 4
+      },
+      {
+        "channel": "A",
+        "user": "vinay singh",
+        "uploaded": 5,
+        "created": 12,
+        "published": 3
+      },
+      {
+        "channel": "F",
+        "user": "vikas.s@moolya.com",
+        "uploaded": 5,
+        "created": 13,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Kallol Pratim",
+        "uploaded": 5,
+        "created": 7,
+        "published": 0
+      },
+      {
+        "channel": "J",
+        "user": "vikas.s@moolya.com",
+        "uploaded": 5,
+        "created": 22,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Divyanshu Dutta Roy",
+        "uploaded": 5,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Arun J",
+        "uploaded": 5,
+        "created": 13,
+        "published": 0
+      },
+      {
+        "channel": "Q",
+        "user": "Subhash (moolya)",
+        "uploaded": 5,
+        "created": 19,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "Subhash (moolya)",
+        "uploaded": 5,
+        "created": 12,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Sandeep Belaki",
+        "uploaded": 5,
+        "created": 19,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "sukhleen",
+        "uploaded": 5,
+        "created": 18,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Adarsh (Frammer)",
+        "uploaded": 5,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Safdar",
+        "uploaded": 5,
+        "created": 14,
+        "published": 0
+      },
+      {
+        "channel": "L",
+        "user": "Nitesh",
+        "uploaded": 4,
+        "created": 65,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Nitesh",
+        "uploaded": 4,
+        "created": 15,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Dheeraj Pareek(QA theveritycorp.com)",
+        "uploaded": 4,
+        "created": 8,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Abhishek Sri",
+        "uploaded": 4,
+        "created": 11,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Deepika Uniyal (QA testaing.com)",
+        "uploaded": 4,
+        "created": 9,
+        "published": 0
+      },
+      {
+        "channel": "H",
+        "user": "Neha",
+        "uploaded": 4,
+        "created": 10,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Richa",
+        "uploaded": 4,
+        "created": 11,
+        "published": 0
+      },
+      {
+        "channel": "N",
+        "user": "QA-Purushottam",
+        "uploaded": 3,
+        "created": 10,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Test User",
+        "uploaded": 3,
+        "created": 10,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Alok Rai",
+        "uploaded": 3,
+        "created": 3,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "QA-Amit",
+        "uploaded": 3,
+        "created": 20,
+        "published": 3
+      },
+      {
+        "channel": "G",
+        "user": "Alok Rai",
+        "uploaded": 3,
+        "created": 3,
+        "published": 0
+      },
+      {
+        "channel": "J",
+        "user": "Prithviraj",
+        "uploaded": 3,
+        "created": 6,
+        "published": 0
+      },
+      {
+        "channel": "K",
+        "user": "Subhash (moolya)",
+        "uploaded": 3,
+        "created": 7,
+        "published": 0
+      },
+      {
+        "channel": "K",
+        "user": "Abhishek Sri",
+        "uploaded": 3,
+        "created": 6,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Deepika Uniyal (QA testaing.com)",
+        "uploaded": 3,
+        "created": 8,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Deepika Uniyal (QA testaing.com)",
+        "uploaded": 3,
+        "created": 45,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Neha",
+        "uploaded": 3,
+        "created": 20,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Safdar",
+        "uploaded": 3,
+        "created": 11,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Alok Rai",
+        "uploaded": 3,
+        "created": 12,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Trivendra",
+        "uploaded": 3,
+        "created": 13,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "QA-Aniket",
+        "uploaded": 2,
+        "created": 9,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "QA-Aniket",
+        "uploaded": 2,
+        "created": 10,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Nitesh",
+        "uploaded": 2,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "QA-Amit",
+        "uploaded": 2,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "swathi.bharadwaj@moolya.com",
+        "uploaded": 2,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "P",
+        "user": "Divyanshu Dutta Roy",
+        "uploaded": 2,
+        "created": 3,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "QA-Aniket",
+        "uploaded": 2,
+        "created": 12,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Arijit Chatterjee",
+        "uploaded": 2,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Kawaljit Singh Bedi",
+        "uploaded": 2,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Kallol Pratim",
+        "uploaded": 2,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "K",
+        "user": "Kallol Pratim",
+        "uploaded": 2,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "J",
+        "user": "Abhishek Sri",
+        "uploaded": 2,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "P",
+        "user": "Subhash (moolya)",
+        "uploaded": 2,
+        "created": 10,
+        "published": 0
+      },
+      {
+        "channel": "R",
+        "user": "Subhash (moolya)",
+        "uploaded": 2,
+        "created": 6,
+        "published": 0
+      },
+      {
+        "channel": "J",
+        "user": "Subhash (moolya)",
+        "uploaded": 2,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "L",
+        "user": "Sandeep Belaki",
+        "uploaded": 2,
+        "created": 3,
+        "published": 0
+      },
+      {
+        "channel": "J",
+        "user": "Subhesh",
+        "uploaded": 2,
+        "created": 3,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Nitesh",
+        "uploaded": 2,
+        "created": 7,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Richa",
+        "uploaded": 2,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Chandan",
+        "uploaded": 2,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "J",
+        "user": "Neha",
+        "uploaded": 2,
+        "created": 9,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "Trivendra",
+        "uploaded": 2,
+        "created": 6,
+        "published": 0
+      },
+      {
+        "channel": "O",
+        "user": "QA-Purushottam",
+        "uploaded": 1,
+        "created": 3,
+        "published": 0
+      },
+      {
+        "channel": "R",
+        "user": "vinay singh",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Auto Upload",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "parakh",
+        "uploaded": 1,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "QA-Bhargavi",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Ashween",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "parakh",
+        "uploaded": 1,
+        "created": 4,
+        "published": 0
+      },
+      {
+        "channel": "L",
+        "user": "Harish",
+        "uploaded": 1,
+        "created": 44,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "QA-Purushottam",
+        "uploaded": 1,
+        "created": 7,
+        "published": 0
+      },
+      {
+        "channel": "N",
+        "user": "QA-Aniket",
+        "uploaded": 1,
+        "created": 3,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "AB",
+        "uploaded": 1,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Kallol Pratim",
+        "uploaded": 1,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "H",
+        "user": "Sandeep Belaki",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Kallol Pratim",
+        "uploaded": 1,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "H",
+        "user": "Alok Rai",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "Test User",
+        "uploaded": 1,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "N",
+        "user": "Subhash (moolya)",
+        "uploaded": 1,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "H",
+        "user": "Shadab",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "N",
+        "user": "Sandeep Belaki",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "J",
+        "user": "Abhishek",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "K",
+        "user": "Abhishek",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "P",
+        "user": "Subhesh",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Shadab",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "L",
+        "user": "Adarsh (Frammer)",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "N",
+        "user": "Subhesh",
+        "uploaded": 1,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Richa",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "N",
+        "user": "Neha",
+        "uploaded": 1,
+        "created": 3,
+        "published": 0
+      },
+      {
+        "channel": "K",
+        "user": "Neha",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Vaibhav",
+        "uploaded": 1,
+        "created": 3,
+        "published": 0
+      },
+      {
+        "channel": "L",
+        "user": "Subhesh",
+        "uploaded": 1,
+        "created": 81,
+        "published": 0
+      },
+      {
+        "channel": "G",
+        "user": "Subhesh",
+        "uploaded": 1,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Dheerendra Kumar",
+        "uploaded": 1,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Anamika Singh",
+        "uploaded": 1,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Sumit (Frammer)",
+        "uploaded": 0,
+        "created": 5,
+        "published": 0
+      },
+      {
+        "channel": "B",
+        "user": "Test User",
+        "uploaded": 0,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "C",
+        "user": "Neha",
+        "uploaded": 0,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "I",
+        "user": "Subhesh",
+        "uploaded": 0,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "K",
+        "user": "Deepika Uniyal (QA testaing.com)",
+        "uploaded": 0,
+        "created": 2,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Arijit Chatterjee",
+        "uploaded": 0,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "A",
+        "user": "Dheerendra Kumar",
+        "uploaded": 0,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "F",
+        "user": "Prithviraj",
+        "uploaded": 0,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Subhesh",
+        "uploaded": 0,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "E",
+        "user": "Anamika Singh",
+        "uploaded": 0,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "K",
+        "user": "Alok Rai",
+        "uploaded": 0,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "J",
+        "user": "Deepika Uniyal (QA testaing.com)",
+        "uploaded": 0,
+        "created": 1,
+        "published": 0
+      },
+      {
+        "channel": "D",
+        "user": "Abhishek",
+        "uploaded": 0,
+        "created": 1,
+        "published": 0
+      }
+    ],
+    "language_pie": [
+      {
+        "name": "en",
+        "value": 8861,
+        "color": "#4F46E5"
+      },
+      {
+        "name": "hi",
+        "value": 6021,
+        "color": "#06B6D4"
+      },
+      {
+        "name": "mix",
+        "value": 29,
+        "color": "#10B981"
+      },
+      {
+        "name": "es",
+        "value": 1,
+        "color": "#F59E0B"
+      },
+      {
+        "name": "ar",
+        "value": 1,
+        "color": "#EF4444"
+      },
+      {
+        "name": "mr",
+        "value": 1
+      }
+    ],
+    "channel_platform_heatmap": [
+      {
+        "channel": "A",
+        "facebook": 1,
+        "instagram": 7,
+        "linkedin": 0,
+        "youtube": 5,
+        "x": 0,
+        "shorts": 1,
+        "reels": 5,
+        "threads": 0
+      },
+      {
+        "channel": "B",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "C",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "D",
+        "facebook": 6,
+        "instagram": 3,
+        "linkedin": 0,
+        "youtube": 29,
+        "x": 0,
+        "shorts": 18,
+        "reels": 15,
+        "threads": 0
+      },
+      {
+        "channel": "E",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "F",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "G",
+        "facebook": 1,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 2,
+        "reels": 11,
+        "threads": 0
+      },
+      {
+        "channel": "H",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "I",
+        "facebook": 1,
+        "instagram": 1,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 2,
+        "reels": 1,
+        "threads": 0
+      },
+      {
+        "channel": "J",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "K",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "L",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "M",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "N",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "O",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "P",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 1,
+        "threads": 0
+      },
+      {
+        "channel": "Q",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 1,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      },
+      {
+        "channel": "R",
+        "facebook": 0,
+        "instagram": 0,
+        "linkedin": 0,
+        "youtube": 0,
+        "x": 0,
+        "shorts": 0,
+        "reels": 0,
+        "threads": 0
+      }
+    ]
+  },
+  "charts": {},
+  "dataset_sources": {
+    "channel_platform": {
+      "filename": "channel_platform.csv",
+      "display_name": "channel_platform"
+    },
+    "channel_summary": {
+      "filename": "channel_summary.csv",
+      "display_name": "channel_summary"
+    },
+    "channel_user": {
+      "filename": "channel_user.csv",
+      "display_name": "channel_user"
+    },
+    "input_type": {
+      "filename": "input_type.csv",
+      "display_name": "input_type"
+    },
+    "language": {
+      "filename": "language.csv",
+      "display_name": "language"
+    },
+    "output_type": {
+      "filename": "output_type.csv",
+      "display_name": "output_type"
+    },
+    "user_summary": {
+      "filename": "user_summary.csv",
+      "display_name": "user_summary"
+    },
+    "monthly": {
+      "filename": "monthly.csv",
+      "display_name": "monthly"
+    },
+    "video_list": {
+      "filename": "video_list.csv",
+      "display_name": "video_list"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\datasets\\channel-wise-publishing.csv": {
+    "schema_hash": "6ea86fae7289ebc7ad3c8d5c090243e7e3c13e816ddf5fb84f3a4d2e20c251b9",
+    "data_hash": "ef3f6856b1d7ef769123d8478040dd5b8d96a4acfecfa43e8cac07cad6f56b49",
+    "role": "channel_platform",
+    "last_seen": "2026-03-22T13:09:45.288255"
+  },
+  "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\datasets\\CLIENT 1 combined_data(2025-3-1-2026-2-28).csv": {
+    "schema_hash": "f756304638cd841cfd5a2551b22271e6dba601ad7c64884dee3c6d2df7fc91fa",
+    "data_hash": "496b02db820508461ba58ba911274123e1b4796addeef25ccb3bef0305e1c735",
+    "role": "channel_summary",
+    "last_seen": "2026-03-22T13:09:45.288255"
+  },
+  "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\datasets\\combined_data(2025-3-1-2026-2-28) by channel and user.csv": {
+    "schema_hash": "062c2a73b86ead7f6bdb1f110c7173b3c188b128a6baff8d971209147d12057c",
+    "data_hash": "e36ff1bb91b206649ef7e8d29641b89de5e74dff8e07e302384687ba2fc9cc59",
+    "role": "channel_user",
+    "last_seen": "2026-03-22T13:09:45.288255"
+  },
+  "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\datasets\\combined_data(2025-3-1-2026-2-28) by input type.csv": {
+    "schema_hash": "3305d24a132ec9f1283a3136ede4e3f7b8d75f50a55cae581133c9493142263d",
+    "data_hash": "0bfc90a64fecfcf7b004a8b02dca546ee04b37a28c39c213bc660acc3b9a9038",
+    "role": "input_type",
+    "last_seen": "2026-03-22T13:09:45.288255"
+  },
+  "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\datasets\\combined_data(2025-3-1-2026-2-28) by language.csv": {
+    "schema_hash": "be3f680c99795937e3b0d3364f56211c12f467187c69179548e4537b7bea3a83",
+    "data_hash": "e1b90b36aef43f6fef8d221e9db2375dd89bc08e2873d5ecc9f0f4e081764157",
+    "role": "language",
+    "last_seen": "2026-03-22T13:09:45.295434"
+  },
+  "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\datasets\\combined_data(2025-3-1-2026-2-28) by output type.csv": {
+    "schema_hash": "98c164472198e909f63fc012b2b9c79e0e4bee89dea217fc03e2aa77e2885ab8",
+    "data_hash": "82efee434505a4878f00defe5957d9971ea90526fc8f12467a35aec383488e37",
+    "role": "output_type",
+    "last_seen": "2026-03-22T13:09:45.295434"
+  },
+  "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\datasets\\combined_data(2025-3-1-2026-2-28) by user.csv": {
+    "schema_hash": "031ddc5f6715e712ed43b771ee28916fe10c6f7391d2a8ee886247f93072b51e",
+    "data_hash": "da109e3485bf5b2f9f0630abb921e14936131187150fe2d0865605ea8952e8ba",
+    "role": "user_summary",
+    "last_seen": "2026-03-22T13:09:45.299372"
+  },
+  "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\datasets\\month-wise-duration.csv": {
+    "schema_hash": "18d0ffd8d93bc6d12d6abcc4cb8370444f0a39bdb1fc9ed7312c647cb4563bd8",
+    "data_hash": "ed8927c3a0e5ab19fa9fa5b826f53f7b3402b76d1287d0d221a30734eb20630b",
+    "role": "monthly",
+    "last_seen": "2026-03-22T13:09:45.302913"
+  },
+  "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\datasets\\monthly-chart.csv": {
+    "schema_hash": "65cdc04833826f8fa24ff2b25ba8d31144e39b13d7ca4575efaac2d334d52a78",
+    "data_hash": "48035064ec7053decfeb3c1ffa91b7133b0feb5c1399da6d2d54ce7881edbfa9",
+    "role": "monthly",
+    "last_seen": "2026-03-22T13:09:45.304720"
+  },
+  "C:\\Users\\ajsal\\OneDrive\\Desktop\\Documents\\codes\\frammer_agent\\data\\datasets\\video_list_data_obfuscated.csv": {
+    "schema_hash": "d945fae1fd24d2b0eec852d2485833f0e395d3d8a78bc3dfefb03dc1630ea9c8",
+    "data_hash": "8e69540a162c1d86b0ef01f788fd998bb84b1936da26245ed779cbc208e96b70",
+    "role": "video_list",
+    "last_seen": "2026-03-22T13:09:45.313785"
+  }
+}

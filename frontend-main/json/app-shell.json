@@ -1,0 +1,111 @@
+{
+  "sidebar": {
+    "brand": {
+      "mark": "FRAMMER AI",
+      "sub": "Operations Intelligence"
+    },
+    "sections": [
+      {
+        "k": "executive",
+        "icon": "◈",
+        "label": "Command Centre"
+      },
+      {
+        "k": "trends",
+        "icon": "◉",
+        "label": "Trend Analysis"
+      },
+      {
+        "k": "lift",
+        "icon": "⇡",
+        "label": "Lift & Forecast"
+      },
+      {
+        "k": "multidim",
+        "icon": "⊞",
+        "label": "Channel & User"
+      },
+      {
+        "k": "funnel",
+        "icon": "⊳",
+        "label": "Content & Funnel"
+      },
+      {
+        "k": "explorer",
+        "icon": "⊹",
+        "label": "Data Explorer"
+      },
+      {
+        "k": "client",
+        "icon": "◎",
+        "label": "Client Profile",
+        "gated": true
+      }
+    ],
+    "period": {
+      "label": "Period",
+      "value": "Mar 2025 → Feb 2026",
+      "sub": "12 months active"
+    },
+    "platformKpis": [
+      {
+        "l": "Uploaded",
+        "v": "4,453",
+        "c": "var(--ink2)"
+      },
+      {
+        "l": "Processed",
+        "v": "15,119",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "Published",
+        "v": "111",
+        "c": "var(--amber)"
+      },
+      {
+        "l": "Pub Rate",
+        "v": "2.5%",
+        "c": "var(--red)"
+      }
+    ],
+    "foot": [
+      "Client: [Anonymized]",
+      "18 channels · 45 users",
+      "Mar 2025 – Feb 2026",
+      "v11 · Production Build"
+    ]
+  },
+  "topbar": {
+    "pageTitles": {
+      "executive": "Executive Command Centre",
+      "trends": "Usage & Trend Analysis",
+      "lift": "Lift & Forecast Lab",
+      "multidim": "Channel & User Intelligence",
+      "funnel": "Content Mix & Publishing Funnel",
+      "explorer": "Video Explorer & Data Quality",
+      "client": "Client Profile"
+    },
+    "periodBadge": "MAR 2025 – FEB 2026",
+    "clientBadge": "CLIENT PROFILE",
+    "summary": [
+      {
+        "text": "4,453",
+        "c": "var(--ink3)"
+      },
+      {
+        "text": "15,119",
+        "c": "var(--gold-lt)"
+      },
+      {
+        "text": "111",
+        "c": "var(--amber-lt)"
+      }
+    ],
+    "aiButton": "✦ AI Copilot",
+    "backButton": "← Back to Explorer"
+  },
+  "highlight": {
+    "hint": "◎ Highlight mode · double-click to exit · Esc to exit"
+  }
+}

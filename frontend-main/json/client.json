@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "tag": "CLIENT OVERVIEW",
+    "badge": "EXPLICIT ACCESS ONLY",
+    "title": "Client Profile",
+    "sub": "Anonymized client dataset · Mar 2025 – Feb 2026"
+  },
+  "summaryCards": [
+    {
+      "l": "Client ID",
+      "v": "---",
+      "c": "var(--ink)",
+      "icon": "◎"
+    },
+    {
+      "l": "Active Channels",
+      "v": "18",
+      "c": "var(--gold-lt)",
+      "icon": "◉"
+    },
+    {
+      "l": "Active Users",
+      "v": "44 / 45",
+      "c": "var(--ink2)",
+      "icon": "⊹"
+    },
+    {
+      "l": "Dataset Period",
+      "v": "12 months",
+      "c": "var(--amber)",
+      "icon": "⊳"
+    }
+  ],
+  "pipelineSummary": [
+    {
+      "l": "Total Uploaded",
+      "v": "4,453",
+      "pct": 100,
+      "color": "var(--ink3)"
+    },
+    {
+      "l": "Total Processed",
+      "v": "15,119",
+      "pct": 100,
+      "color": "var(--gold)"
+    },
+    {
+      "l": "Total Published",
+      "v": "111",
+      "pct": 2.5,
+      "color": "var(--amber)"
+    },
+    {
+      "l": "Publish Rate",
+      "v": "2.5%",
+      "pct": 2.5,
+      "color": "var(--red)"
+    },
+    {
+      "l": "AI Multiplier",
+      "v": "3.4×",
+      "pct": 85,
+      "color": "var(--gold-lt)"
+    }
+  ],
+  "keySignals": [
+    {
+      "type": "crit",
+      "tag": "⚠ CRITICAL — PUBLISH GAP",
+      "text": "97.5% of AI-created outputs were never distributed. 14,803 videos sit unpublished."
+    },
+    {
+      "type": "warn",
+      "tag": "⚡ DATA QUALITY",
+      "text": "99.3% unknown team names · 68% NULL platform on published rows · QA contamination ~15.5%."
+    },
+    {
+      "type": "ok",
+      "tag": "✓ GROWTH SIGNAL",
+      "text": "Feb 2026 created 2,756 outputs — 194% above 12-month average. Strong upward trajectory."
+    }
+  ],
+  "channels": [
+    {
+      "ch": "A",
+      "uploaded": 847,
+      "created": 3112,
+      "published": 46,
+      "uploadedH": 148.2,
+      "platforms": {
+        "Facebook": 1,
+        "Instagram": 7,
+        "Reels": 5,
+        "Shorts": 1,
+        "Youtube": 5
+      },
+      "noPublish": false
+    },
+    {
+      "ch": "B",
+      "uploaded": 620,
+      "created": 1982,
+      "published": 7,
+      "uploadedH": 117.8,
+      "platforms": {},
+      "noPublish": false
+    },
+    {
+      "ch": "C",
+      "uploaded": 321,
+      "created": 1080,
+      "published": 1,
+      "uploadedH": 68.2,
+      "platforms": {},
+      "noPublish": false
+    },
+    {
+      "ch": "D",
+      "uploaded": 412,
+      "created": 1430,
+      "published": 72,
+      "uploadedH": 78.5,
+      "platforms": {
+        "Facebook": 6,
+        "Instagram": 3,
+        "Reels": 15,
+        "Shorts": 18,
+        "Youtube": 29
+      },
+      "noPublish": false
+    },
+    {
+      "ch": "E",
+      "uploaded": 89,
+      "created": 240,
+      "published": 0,
+      "uploadedH": 19.3,
+      "platforms": {},
+      "noPublish": true
+    },
+    {
+      "ch": "F",
+      "uploaded": 76,
+      "created": 220,
+      "published": 0,
+      "uploadedH": 14.1,
+      "platforms": {},
+      "noPublish": true
+    },
+    {
+      "ch": "G",
+      "uploaded": 168,
+      "created": 492,
+      "published": 14,
+      "uploadedH": 38.6,
+      "platforms": {
+        "Facebook": 1,
+        "Reels": 11,
+        "Shorts": 2
+      },
+      "noPublish": false
+    },
+    {
+      "ch": "H",
+      "uploaded": 55,
+      "created": 162,
+      "published": 0,
+      "uploadedH": 11,
+      "platforms": {},
+      "noPublish": true
+    },
+    {
+      "ch": "I",
+      "uploaded": 97,
+      "created": 285,
+      "published": 5,
+      "uploadedH": 22.4,
+      "platforms": {
+        "Facebook": 1,
+        "Instagram": 1,
+        "Reels": 1,
+        "Shorts": 2
+      },
+      "noPublish": false
+    }
+  ]
+}
